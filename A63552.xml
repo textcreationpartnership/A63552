@@ -1,0 +1,1095 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The faith of the Chvrch of England concerning Gods work on mans will pvblikely confirmed by the svbscriptions of all the famous martyrs, and divines thereof : faithfully gathered out of the authenticke records of the Chvrch / by Francis Tayler ...</title>
+            <author>Taylor, Francis, 1590-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 102 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63552</idno>
+            <idno type="STC">Wing T276</idno>
+            <idno type="STC">ESTC R10772</idno>
+            <idno type="EEBO-CITATION">12590860</idno>
+            <idno type="OCLC">ocm 12590860</idno>
+            <idno type="VID">63916</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63552)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63916)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 676:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The faith of the Chvrch of England concerning Gods work on mans will pvblikely confirmed by the svbscriptions of all the famous martyrs, and divines thereof : faithfully gathered out of the authenticke records of the Chvrch / by Francis Tayler ...</title>
+                  <author>Taylor, Francis, 1590-1656.</author>
+               </titleStmt>
+               <extent>[12], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.L. for Nicholas Bourne ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63916:1"/>
+            <pb facs="tcp:63916:1"/>
+            <p>THE FAITH OF THE CHVRCH OF <hi>ENGLAND</hi> CON<g ref="char:EOLhyphen"/>CERNING GODS WORK ON MANS WILL. PVBLIKELY CON<g ref="char:EOLhyphen"/>FIRMED BY THE SVB<g ref="char:EOLhyphen"/>SCRIPTIONS OF ALL the Famous Martyrs, and Divines thereof.</p>
+            <p>Faithfully gathered out of the Authenticke Records of the CHVRCH.</p>
+            <p>By <hi>Francis Tayler</hi> B. in D. and Rector of CLAPHAM in SVRREY.</p>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>I. L.</hi> for <hi>Nicholas Bourne</hi> at the South entrance to the Royall Exchange. 1641.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:63916:2"/>
+            <pb facs="tcp:63916:2" rendition="simple:additions"/>
+            <head>TO Sir EDWARD DERING, of <hi>Surenden-Dering,</hi> in the County of <hi>Kent,</hi> Knight and Baronet; and one of the Knights choſen by that County to ſerve in the Commons Houſe of Parliament.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat little intereſt I have in <hi>Kent,</hi> was the firſt motive that incited me to deſire your worſhips acquaintance. And the report of your zeale, for the eſtabliſhing of Religion, and our lawfull liber<g ref="char:EOLhyphen"/>ties, encreaſed this deſire. The courteous entertain<g ref="char:EOLhyphen"/>ment and familiarity you have ſince vouchſafed me, hath made me bold to preſent this enſuing Treatiſe to the view of the world under your protection, whom God hath enabled to judge truly of it &amp; to defend it. The truth is, that of late years, the Law and the Goſ<g ref="char:EOLhyphen"/>pell have bin ſo dreſſed, both in the Pulpit &amp; in the Preſse, that we neither knew what we beleeved, nor what we had. Our intereſt in heaven and in earth, were like to be both alike unknowne unto us in a lit<g ref="char:EOLhyphen"/>tle time. The Proverbe is, <hi>Evill manners beget good Lawes.</hi> So our good God can bring good out of will. The Myſtery of <hi>Babylon</hi> hath wrought
+<pb facs="tcp:63916:3"/>among us by upholding the <hi>Arminian</hi> tenets under colour of pulling downe <hi>Puritanes,</hi> to take away the faith of Proteſtants. <hi>Andrews, Bilſon, Whitakers, Perkins, Calvin, Beza,</hi> have beene ſtrange names. <hi>Peter Lumbard, Thomas Aqui<g ref="char:EOLhyphen"/>nas, Bonaventure,</hi> have bin too familiar in our Vni<g ref="char:EOLhyphen"/>verſities and Pulpits. The ſilence enjoyned in Pul<g ref="char:EOLhyphen"/>pits and Preſses, hath burſt out on the wrong ſide, while the right ſide might neither ſpeake nor write. Our hope of correcting theſe diſorders next under our great God, and our moſt gracious Soveraigne, is in the two Honourable Houſes of Parliament, Of one of which your Worſhip is a member. My ſuit then is, that your laſt workes may be better then your firſt, and that as you have been a meanes to diſcover our by-paths; ſo you will be an inſtru<g ref="char:EOLhyphen"/>ment to reduce us to our firſt love. Let us know what we have beleeved, that know not what wee doe beleeve. If you pleaſe to move the Honourable Houſe, that the Records of our Church may be ſear<g ref="char:EOLhyphen"/>ched by certaine grave Divines, and the writings of our elder and ſoundeſt Writers now out of date, may be reviewed, and a ſumme of our Religion ever ſince the reformation profeſſed, collected out of theſe; I ſuppoſe it will be a great meanes to quiet our troubles, and appeaſe our differences at home, and to regaine us a good opinion with other Churches abroad; Some of which have thought ſo ill of us, as that they have forbidden their young Students to come into <hi>England,</hi> as <hi>I</hi> have heard from a young man of excellent parts, who adventured to come hither, being ſent from <hi>Berne</hi> into <hi>Holland:</hi> I
+<pb facs="tcp:63916:3"/>have endeavoured to give ſome light to this buſi<g ref="char:EOLhyphen"/>neſſe in this Treatiſe, wherein I ſhew the judgement of our Church in one maine point, upon which, all, or the moſt part of <hi>Arminianiſme</hi> depends. I could wiſh <hi>I</hi> might be a ſhoing-horne to draw on men better able to doe the like, againſt all new opinions of <hi>Arminianiſme, Socinianiſme,</hi> and <hi>Popery,</hi> which are thought to grow ſecretly among us, and ſhew themſelves by fits in Preaching and Printing. I beſeech Almighty God to incline the hearts of all to whom he hath given parts, to further this great work, of ſetling the grounds of our Religion by a ſweet Harmony. This will be for Gods glory, the honour of our Church, the good of our poſterity, and the stopping of the mouths of our Adverſaries, who trumpet out our diſſentions for their owne advan<g ref="char:EOLhyphen"/>tage. Sir, my requeſt is, that you would favourably accept this ſmall Preſent, and that God would bleſſe it to the furtherance of the publike good. So praying for the true well-fare of you, and all yours, I reſt,</p>
+            <closer>
+               <dateline>
+                  <hi>Clapham</hi>
+                  <date>Febr. <hi>20. 1641.</hi>
+                  </date>
+               </dateline>
+               <signed>At your Worſhips ſervice in the Lord, FRANCIS TAYLOR.</signed>
+            </closer>
+         </div>
+         <div type="list_of_sources">
+            <pb facs="tcp:63916:4"/>
+            <pb facs="tcp:63916:4"/>
+            <head>Fourteene books publikely al<g ref="char:EOLhyphen"/>lowed, out of which all theſe proofes are taken.</head>
+            <list>
+               <item>1. <hi>The Book of Common Prayer.</hi>
+               </item>
+               <item>2. <hi>The Book of Ordination.</hi>
+               </item>
+               <item>3. <hi>The Book of Articles with the Commen<g ref="char:EOLhyphen"/>mentary of</hi> M<hi rend="sup">r</hi>. Thomas Rogers <hi>Chaplain to Archbiſhop</hi> Bankcroft.</item>
+               <item>4. <hi>The first Book of Homelies.</hi>
+               </item>
+               <item>5. <hi>The ſecond Book of Homelies.</hi>
+               </item>
+               <item>6. <hi>The Catechiſme allowed by authoritie.</hi>
+               </item>
+               <item>7. <hi>Prayer on</hi> Auguſt. 5.</item>
+               <item>8. <hi>Prayer on November</hi> 5.</item>
+               <item>9. <hi>The thankſgiving for the ceaſing of the plague,</hi> 1604.</item>
+               <item>10. <hi>Prayers for ceaſing of the rainy wea<g ref="char:EOLhyphen"/>ther,</hi> 1613.</item>
+               <item>11. <hi>Prayers on the Kings day, March</hi> 27.</item>
+               <item>12. <hi>Prayers in the Faſt,</hi> 1625.</item>
+               <item>13. <hi>The thankſgiving for the ceaſing of the plague that yeere.</hi>
+               </item>
+               <item>14. <hi>Prayers in the Faſt,</hi> 1626.</item>
+            </list>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:63916:5"/>
+            <head>Fourteene heads to which all the proofs in this Treatiſe are to be referred.</head>
+            <list>
+               <item>1. Our owne inſufficiency to any good.</item>
+               <item>2. Gods omnipotency ſhewed in our converſion.</item>
+               <item>3. Gods ſpeciall grace.</item>
+               <item>4. Gods working in infants.</item>
+               <item>5. The giving of internall grace to men.</item>
+               <item>6. The receiving of grace.</item>
+               <item>7. The internall effect of grace.</item>
+               <item>8. The purification of the heart.</item>
+               <item>9. The externall effect of grace.</item>
+               <item>10. Gods governing us.</item>
+               <item>11. Gods preſerving us in godlineſſe and from ſinne.</item>
+               <item>12. The progreſſe of the regenerate.</item>
+               <item>13. The prayers of holy men.</item>
+               <item>14. Gods grants.</item>
+            </list>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:63916:5"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Onder not (Chriſtian Reader) that ſo much paines hath been taken to ſearch the authenticke records of this our fa<g ref="char:EOLhyphen"/>mous Church of <hi>England,</hi> for the worke of God upon the will of man. That over-large power given by the Adver<g ref="char:EOLhyphen"/>ſary to the will of man hath been the navell-ſtring, whereby the misbegotten bratts of <hi>Armi<g ref="char:EOLhyphen"/>nianiſme</hi> have beene nouriſhed, while they lay lurking in the wombe of nature. It is in vaine to talke of predeſtina<g ref="char:EOLhyphen"/>tion out of faith foreſeene, if there be no power in mans will to beleeve. It is as if a Phyſitian ſhould foreſee, that a man mortally ſicke would of himſelfe recover, but give him no<g ref="char:EOLhyphen"/>thing to recover him. How can God foreſee, that ſuch a man mill beleeve who hath no power to doe it, unleſſe God give it him? Gods generall intention to ſave all men by Chriſt will not ſerve the turne, unleſſe there be in every man a power to apply Chriſts death unto them. Otherwiſe it is like Phyſicke prepared for a dead man that cannot take
+<pb facs="tcp:63916:6"/>it. To ſay that faith is wrought in us onely by Gods morall ſwaſion, is ridiculous if it be not in our power to doe as we are exhorted in all things. To teach that Gods work in mans converſion is ſuch as may be fruſtraed of the ſaving effect by mans will reſiſting, when God hath done as much as he nſeth to doe in regenerating men, is abſurd, unleſſe it be left every way indifferent to man to beleeve or not to be<g ref="char:EOLhyphen"/>leeve, and he have power indifferently to doe either. It ſeeme as ſtrange to affir me that the regenerate may totally fall from grace, unleſſe he be left altogether to his own will, and made his owne onely keeper. To dreame of attaining to a perfect keeping of Gods law here on earth without a great power in mans will, were to ſet a man quite beyond the Cape of all good hope. It is not then an unneceſſary labour to play the midwife and to cut this navell-ſtring of free-will, and ſend theſe <hi>Arminian</hi> impes abroad into the wide world to cry for foode. Vndermining was ever held a more ſure and leſſe dangerous way to overthrow cities; then the tempeſt of Canons. If the foundation of <hi>Arminianiſme</hi> beraſed by the plaine doctrine of our Church, the walles of it muſt with Dagon fall downe before the Arke. The proofes are all upon record. The words are therefore ſet downe, leaſt the Adverſary ſhould complaine of forgery, or the reader be to negligent to ſearch them out himſelfe. The Lord guide us all to the knowledge of his truth, diſpell the miſts of er<g ref="char:EOLhyphen"/>rors, confirme his ſervants in love and peace on earth, and bring us to glory in heaven.</p>
+            <closer>
+               <signed>
+                  <hi>Thine in</hi> Chriſt Ieſus, <hi>FRANCIS TAYLER</hi>
+               </signed>
+               <dateline>
+                  <hi>Clapham.</hi>
+               </dateline>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:63916:6"/>
+            <head>The faith of the Church of <hi>England</hi> concerning Gods worke on mans will.</head>
+            <head type="sub">The Preface.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N all diſputations the firſt thing to be done, is to ſet out the right ſtate of the queſtion. Which if it be miſunderſtood, men fight with their owne ſhadowes. We agree of<g ref="char:EOLhyphen"/>ten in words, when we differ in the ſence. Our concluſion that we muſt drive at throughout the whole worke muſt be this, that <hi>God works alwayes powerfully and ef<g ref="char:EOLhyphen"/>fectually upon the will of man in the regeneration of a ſinnner.</hi> No<g ref="char:EOLhyphen"/>thing is difficult but the terme of <hi>effectuall working,</hi> whereby we doe not underſtand onely in a generall ſence, that ſome effect or other follows upon Gods work: nor yet that regeneration fol<g ref="char:EOLhyphen"/>lows after Gods worke oftentimes, for ſo it may though it be not an effect of it. Neither do we intend, that God ſo takes advantage of the time, place, affection, and diſpoſition of a man, that he offers grace to him in ſuch a point of time, as he knowes that mans will is inclined to receive it, for this were to com<g ref="char:EOLhyphen"/>mend
+<pb facs="tcp:63916:7" rendition="simple:additions"/>Gods wiſdome in regenerating of us, but to deny any worke of his power in it, and to make regeneration not Gods worke, but the worke of mans will. Our meaning plainely is, that in the worke or regeneration, God works ſo powerfully upon mans will, that regeneration infallably followes, as an effect of it, and that this kind of working powerfully is onely found in ſuch as are elected before, and all in whom God works thus, are by that powerfull work of his regenerated. So that the cauſe of their regeneration is not any way their own will, but Gods powerfull working in them by his ſpirit. Neither doth God work thus in any other, but ſuch as prove converts, for if he did work ſo powerfully in others, they would have been regenera<g ref="char:EOLhyphen"/>ted alſo. In a word there is a particular powerfull work of Gods Spirit in his elect only, whereby they all, and onely they are truly regenerate. In others there may be illumination, and ſome weak motions to goodneſſe in their wills, but alwayes in effectuall, becauſe they are left to mans will, and God doth not ſo work in them, as he doth in his elect. Where God powerfully works, there regeneration neceſſarily follows, where he doth not, there it cannot follow. We will reduce all to fourteen heads, all which confirme the former concluſion againſt the power of mans will, and demonſtrate Gods powerfull work. The proofe of each is the words of the records. Sometimes we ſhall make uſe of the title in ſome prayers given to God, becauſe we doubt not, but the wiſdome of the Church in her prayers would give ſuch titles to God, as were moſt anſwerable to the things in thoſe prayers deſired of God. The concluſion is, let the Reader well weigh the heads themſelves, and the arguments brought to prove them, and conclude in his own ſoule, which is the doctrin of the Church of <hi>England.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="1" facs="tcp:63916:7"/>
+            <head>CHAP. I. <hi>Of our own inſufficiency.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>E will begin with our own inſufficiency to any good, and ſhew what matter the books allow us to ſet it out, ſo farre forth as arguments may be taken from thence to prove an effectuall work of God upon the will of man in the work of regenera<g ref="char:EOLhyphen"/>tion. Where in generall I obſerve, that the books put no difference in unregenerate men, but make all their wills alike dead in ſins and treſpaſſes, unable to be<g ref="char:EOLhyphen"/>leeve untill they be quickened by God. Which takes away the new Arminian conceit, that where the Goſpel is preached, there is a power given to all that heare it even before rege<g ref="char:EOLhyphen"/>neration, to beleeve if they pleaſe, by the uſe of which power ſome do beleeve, &amp; others that have as much power will not uſe it to beleeve in Chriſt. The books that make all alike dead in ſins, auke to goodnes, till they be actually regenerate acknowledge no ſuch difference. This is but a trick to avoyd the odious names of naturall power in the will, and Pelagia<g ref="char:EOLhyphen"/>niſme. It is a monſtrous opinion in nature, that a thing ſhould have a naturall inbred motion wrought in it, before any life be wrought in it, ſo is it in grace, that their ſhould be a power wrought in mans will, whereby of it own free
+<pb n="2" facs="tcp:63916:8"/>inclination it ſhould be able to live ſpiritually, or not to live as it liſt, yea which is more abſurd, be able to move it ſelf in the higheſt ſpirituall action that can be, before it be actually regenerate, or have in it any true ſpirituall life. Now let the words of the book declare mans inſuffici<g ref="char:EOLhyphen"/>ency, and let every one collect from thence Gods-power<g ref="char:EOLhyphen"/>full operation in mans converſion.</hi>
+            </p>
+            <p>FAith giveth life to the ſoule, <note place="margin">
+                  <hi>Sermon of good works. Part.</hi> 1.</note> and they be as much dead to God that lack faith, as they be to the world, whoſe bodies lack ſouls.</p>
+            <p>Sinne is come into the world, <note place="margin">Sermon two of the Paſ<g ref="char:EOLhyphen"/>ſion.</note> and ſo come that it cannot be avoided. It cannot be choſen, but we muſt needs fall often.</p>
+            <p>That which is born of the Spirit, <note place="margin">
+                  <hi>Hom. for Whitſunday Part.</hi> 3.</note> is ſpirit: as who ſhould ſay; Man of his own nature is fleſhly, and car<g ref="char:EOLhyphen"/>nall, corrupt and naught, ſinfull and diſobedient to God, without any ſpark of goodneſſe in him, with<g ref="char:EOLhyphen"/>out any vertuous or godly motion, onely given to wicked thoughts, <note place="margin">
+                  <hi>Sermon for Rogat. week. Part.</hi> 1. 2 <hi>Cor.</hi> 3.5. <hi>Sermon of Repentance. Part.</hi> 1.</note> and evill deeds.</p>
+            <p>
+               <hi>Paul</hi> brings in his beliefe, we be not (ſaith he) ſuf<g ref="char:EOLhyphen"/>ficient of our ſelves, as of our ſelves once to think any thing: but all our ableneſſe is of Gods goodneſſe.</p>
+            <p>We muſt beware and take heed, that we do in no wiſe think in our hearts, imagine, or beleeve, that we are able to repent aright, or to turn effectually unto the Lord by our own might and ſtrength. <note place="margin">
+                  <hi>Ioh.</hi> 15.5.</note> For this muſt be verified in all men, without me ye can do nothing. <note place="margin">2 <hi>Cor.</hi> 3.5.</note> Again, of our ſelves we are not able as much as to think a good thought.</p>
+            <p>We are all by originall corruption of our nature, <note place="margin">
+                  <hi>Now. Cat. queſt.</hi> 69.</note> of ſuch blindneſſe, wickedneſſe and frowardneſſe,
+<pb n="3" facs="tcp:63916:8"/>that we can neither underſtand, nor are able or wil<g ref="char:EOLhyphen"/>ling to do our dutie required by the law.</p>
+            <p>We by nature are ſo unwary to foreſee, <note place="margin">
+                  <hi>Now. Cat. queſt.</hi> 224.</note> and ſo weak to reſiſt temptations, that we cannot but be over<g ref="char:EOLhyphen"/>come, unleſſe God do aſſiſt us with his grace, and arme us with his ſtrength.</p>
+            <p>The corrupt inclination of man was ſo much gi<g ref="char:EOLhyphen"/>ven to follow his own fantaſie,
+<note place="margin">
+                  <hi>Sermon of good works. Part.</hi> 2.</note> that all the admoniti<g ref="char:EOLhyphen"/>ons, exhortations, benefits, and threatnings of God could not keep him from his inventions.</p>
+            <p>Neither could the notableneſſe of the place being the beginning of Gods law make us to marke it, <note place="margin">
+                  <hi>Hom. a<g ref="char:EOLhyphen"/>gainſt perill of idolatry. Part.</hi> 1.</note> nor the plain declaration by recounting of all kinde of ſimilitudes cauſe us to underſtand it, nor the oft re<g ref="char:EOLhyphen"/>peating and reporting of it in divers and ſundry pla<g ref="char:EOLhyphen"/>ces, the oft reading and hearing of it could cauſe us to remember it, nor the dread of the horrible penal<g ref="char:EOLhyphen"/>tie to our ſelves, our children and poſteritie after us, feare us from tranſgreſſing of it, nor the greatneſſe of the reward to us, and our children after us, move us any thing to obedience and the obſerving of the Lords great Law againſt idolatry.</p>
+            <p>So that if either the multitude or plainneſſe of the places might make us to underſtand,
+<note place="margin">In the ſame Hom.</note> or Gods earneſt charge that God giveth in them, move us to regard, or the horrible plagues threatned to idolaters; might ingender any feare in our hearts, we would forſake this wickedneſſe.</p>
+            <p>When God leaveth us to our own wit, will, <note place="margin">
+                  <hi>Sermon of falling from God. Part.</hi> 1. <hi>Part.</hi> 2.</note> and ſtrength, then he begins to forſake us.</p>
+            <p>When God gives us over, he ſuffers us to bring forth ſuch fruits as we will, all naughtineſſe and vice,
+<pb n="4" facs="tcp:63916:9"/>and that ſo abundantly, that they ſhall cleane over<g ref="char:EOLhyphen"/>grow us, choke, ſtrangle, and utterly deſtroy us.</p>
+            <p>They that live not after God perceive not this great wrath of God towards them,
+<note place="margin">
+                  <hi>Part.</hi> 2.</note> that he doth let them alone to themſelves.</p>
+            <p>When thou art called to repentance, <note place="margin">
+                  <hi>Hom. of Repentance. Part.</hi> 3.</note> neglect not the good occaſion, that is miniſtred to thee, leaſt when thou wouldſt repent, thou haſt not the grace to do it. <note place="margin">
+                  <hi>Sermon for Rogat. week. Part.</hi> 1. <hi>Hom. of in<g ref="char:EOLhyphen"/>formation of them, that take offence at ſome pla<g ref="char:EOLhyphen"/>ces of Script. Part.</hi> 2.</note> For to repent is a good gift of God.</p>
+            <p>In the power and vertue of the holy Ghoſt we are made meet and able to receive Gods gifts and graces</p>
+            <p>Godly men when they fall into ſin, through Gods great grace and infinite mercy riſe again, and fight a<g ref="char:EOLhyphen"/>gainſt ſinne.</p>
+         </div>
+         <div n="2" type="chapter">
+            <head>CHAP. II. <hi>Of Gods Omnipotency ſhewed in our Converſion.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>His Argument is one of the ſtrongeſt: for if God uſe his omnipotency in converting of a ſinner, then there is no queſtion, but God doth more then perſwade, and that the work muſt needs be effectuall, unleſse any mans will can reſiſt Gods omnipotency. Let us therefore heare the books pronounce ſentence and agree to it.</hi>
+            </p>
+            <p>God which declareſt thy Almightie power moſt chiefly in ſhewing mercy and pitie,
+<note place="margin">
+                  <hi>Collect.</hi> 11. <hi>Sunday af<g ref="char:EOLhyphen"/>ter Trinity.</hi>
+               </note> give unto us abundantly thy grace, that we returning to thy pro<g ref="char:EOLhyphen"/>miſes
+<pb n="5" facs="tcp:63916:9"/>may be made partakers of thy heavenly trea<g ref="char:EOLhyphen"/>ſure through Jeſus Chriſt our Lord.</p>
+            <q>
+               <l>From Satans rage and filthy band, <note place="margin">
+                     <hi>Lords pray<g ref="char:EOLhyphen"/>er. By D. Coxe. Serm. of Sacrament. Part.</hi> 1. <hi>Hom. for Whitſun<g ref="char:EOLhyphen"/>day. Part.</hi> 1. <hi>In the ſame place.</hi>
+                  </note>
+               </l>
+               <l>Defend us with thy mightie hand.</l>
+            </q>
+            <p>We are marvellouſly incorporated into Chriſt, by the operation of the holy Ghoſt.</p>
+            <p>It is the office of the holy Ghoſt to ſanctifie, and regenerate. Which work the more it is hid from our underſtanding, the more it ought to move all men to wonder at the ſecret and mighty working of Gods holy Spirit, which is within us.</p>
+            <p>Did not Gods Spirit miraculouſly work in <hi>David, Matthew, Peter,</hi> and <hi>Paul?</hi> Such is the power of the holy Ghoſt to regenerate men, and as it were to bring them forth a new, ſo that they ſhall be nothing like the men that they were before.</p>
+            <p>The Apoſtles rejoyced, <note place="margin">In the ſame place.</note> that they were counted worthy to ſuffer for Chriſt. This was the mighty worke of the Holy Ghoſt, who becauſe he giveth patience and joyfulneſſe of heart in temptation and affliction, hath therefore worthily obtained this name in holy Scripture to be called a Comforter.</p>
+            <p>Let us humbly beſeech God ſo to worke in our hearts by the power of his holy Spirit,
+<note place="margin">In the ſame place.</note> that we being regenerate, and newly borne againe in all goodnes, righteouſneſſe, ſobriety, and truth may in the end obtaine eternall life.</p>
+            <p>To new create a man from a wicked perſon to a righteous man is a greater act (ſaith S. <hi>Auguſtin</hi>) then to make ſuch a new Heaven and Earth, <note place="margin">
+                  <hi>Serm. for Rogat. week. Part.</hi> 1.</note> as is al<g ref="char:EOLhyphen"/>ready made.</p>
+            <pb n="6" facs="tcp:63916:10"/>
+            <p>God is able to doe abundantly beyond our deſires and thoughts according to the power working in us. <note place="margin">
+                  <hi>Part.</hi> 3.</note>
+            </p>
+            <p>Almighty God give us grace that we may caſt a<g ref="char:EOLhyphen"/>way the works of darkneſſe,
+<note place="margin">
+                  <hi>Coll.</hi> 1. <hi>Sun<g ref="char:EOLhyphen"/>day in Ad<g ref="char:EOLhyphen"/>vent.</hi>
+               </note> and put upon us the ar<g ref="char:EOLhyphen"/>mour of light.</p>
+            <p>Lord of all power and might graffe in our hearts the love of thy name. <note place="margin">
+                  <hi>Coll.</hi> 7. <hi>Sun<g ref="char:EOLhyphen"/>day after Trin. Coll. on All Saints day. Song before Even. pray<g ref="char:EOLhyphen"/>er.</hi>
+               </note>
+            </p>
+            <p>Almighty God which haſt knit together thy elect in one communion and fellowſhip in the myſticall body of thy Sonne Chriſt our Lord.</p>
+            <p>Praiſe yee the Lord which gives all grace, for he is a Lord of great might.</p>
+         </div>
+         <div n="3" type="chapter">
+            <head>CHAP. III. <hi>Of Gods ſpeciall grace.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He doctrine of Gods ſpeciall grace overthroweth the fooliſh conceit of ſome common grace wrought in all thoſe that heare the Goſpel, whereby they may beleeve if they will, yet of<g ref="char:EOLhyphen"/>ten doe not. It is a ſpeciall and effectuall grace, that workes in our regeneration, that workes not in others, that are not regenerate. Heare therefore the words of the bookes.</hi>
+            </p>
+            <p>BY thy ſpeciall grace preventing us thou doſt put into our hearts good deſires.
+<note place="margin">
+                  <hi>Coll. on Ea<g ref="char:EOLhyphen"/>ſterday. Exhort. to ſuch as come negligently to the Com<g ref="char:EOLhyphen"/>munion. Article.</hi> 10.</note>
+            </p>
+            <p>Theſe things if ye earneſtly conſider, ye ſhall by Gods grace return to a better minde: for the obtain<g ref="char:EOLhyphen"/>ing whereof we ſhall make our humble petitions, while we ſhall receive the holy Communion.</p>
+            <p>The condition of man after the fall of <hi>Adam</hi> is ſuch
+<pb n="7" facs="tcp:63916:10"/>that he cannot turne, and prepare himſelfe by his owne naturall ſtrength, and good works to faith and calling upon God, wherefore we have no power to doe good works, pleaſant &amp; acceptable to God with<g ref="char:EOLhyphen"/>out the grace of God preventing us, that we may have a good will, and working with us, when we have that good will.</p>
+            <p>Adverſaries unto this truth, <note place="margin">Mr. <hi>Rogers commenta<g ref="char:EOLhyphen"/>ry on it. Prop.</hi> 2.</note> ere ſuch as hold that men beleeve not, but of their owne free-will: and that it is in a mans free-will to beleeve or not to beleeve, to obey or diſobey the Goſpel of truth preached.</p>
+            <p>They which be indued with ſo excellent a benefit of God (that is predeſtination) be called according to Gods purpoſe by his Spirit working in due ſeaſon, <note place="margin">
+                  <hi>Artic.</hi> 17.</note> they though grace obey the calling, they be made like the image of Chriſt.</p>
+            <p>In Chriſt Jeſus of the meere will and purpoſe of God ſome are elected,
+<note place="margin">M<hi rend="sup">r</hi>. <hi>Rogers comment. Prop.</hi> 5.</note> and not others unto ſalva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <hi>Adverſaries unto this truth.</hi>
+            </p>
+            <p>Hereby is diſcovered the impiety of thoſe men, <note place="margin">M<hi rend="sup">r</hi>. <hi>Rogers in the ſame place.</hi>
+               </note> which think that God beheld in every man, whither he would uſe his grace well, and beleeve the Goſpel or no, and as he ſaw a man affected, ſo did predeſti<g ref="char:EOLhyphen"/>nate, chuſe, or refuſe him.</p>
+            <p>Such as be ordained to everlaſting life, <note place="margin">
+                  <hi>Expoſ. of Prop.</hi> 6.</note> if they live long in this world, they one time or other be called unto the knowledge of ſalvation by the preaching of Gods word: they obey that calling through the ope<g ref="char:EOLhyphen"/>ration of the Holy Ghoſt working within them.</p>
+            <p>The predeſtinate are both juſtified by faith, <note place="margin">
+                  <hi>Prop.</hi> 7.</note> ſan<g ref="char:EOLhyphen"/>ctified by the Spirit, and ſhall be glorified in the life to come.</p>
+            <pb n="8" facs="tcp:63916:11"/>
+            <p>Divers be the effects of mans predeſtination, <note place="margin">
+                  <hi>Expoſ. of Prop.</hi> 7.</note> but chiefely it bringeth to the elect juſtification by faith in this life, and in the life to come glorification, &amp;c. as teſtify all the Churches in their confeſſions.</p>
+            <p>The word of God is the ſavour of life unto eternall life unto all thoſe, <note place="margin">
+                  <hi>Hom. of in<g ref="char:EOLhyphen"/>form. of ſuch as take of<g ref="char:EOLhyphen"/>fence at ſome places of Script. Part.</hi> 2. <hi>Hom. of almes deeds. Part.</hi> 2.</note> whoſe hearts God hath purified by true faith.</p>
+            <p>God of his ſpeciall favour toward them whom he hath appointed to ſalvation, hath ſo offered his grace eſpecially, and they have ſo received it fruitfully, that the ſpirit of God mightily working in them now un<g ref="char:EOLhyphen"/>to obedience to Gods will, they declare by their life and good deeds (which cannot come, but of the Spi<g ref="char:EOLhyphen"/>rit of God, and his eſpeciall grace) that they are the undoubted children of God appointed to everlaſting life.</p>
+            <p>All ſpirituall gifts and graces come ſpecially from God. <note place="margin">
+                  <hi>Sermon for Rogat. week. Part.</hi> 3.</note> Faith is the gift of God, and by his power we are kept through faith unto ſalvation.</p>
+            <p>We ſhall never be able to avoyd ſinne without the ſpeciall grace of him,
+<note place="margin">
+                  <hi>Sermon of Repentance. Part.</hi> 2. <hi>Ioh.</hi> 15. <hi>Now. Cat. queſt.</hi> 150.</note> that doth ſay, without me ye can do nothing.</p>
+            <p>All thoſe whom God hath choſen, he hath reſto<g ref="char:EOLhyphen"/>red unto holineſſe of life and innocency.</p>
+         </div>
+         <div n="4" type="chapter">
+            <pb n="9" facs="tcp:63916:11"/>
+            <head>CHAP. IIII. <hi>Of Gods work in infants.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T is evident out of the firſt Chapter, that men are as dead to God by nature as infants, and as unable to repent and beleeve: Now chil<g ref="char:EOLhyphen"/>dren are not ſpiritually quickned by power of any morall ſwaſion, but by an effectuall divine operation, as the books in ſundry places affirme.</hi>
+            </p>
+            <p>SAnctifie theſe children and waſh them with the holy Ghoſt. <note place="margin">
+                  <hi>Publike Baptiſme. Prayer.</hi> 1.</note>
+            </p>
+            <p>We call upon thee for theſe infants, that they com<g ref="char:EOLhyphen"/>ing to thy holy Baptiſme,
+<note place="margin">
+                  <hi>Prayer.</hi> 2.</note> may receive remiſſion of their ſins by ſpirituall regeneration.</p>
+            <p>O mercifull God grant, <note place="margin">The ſhort prayers af<g ref="char:EOLhyphen"/>ter the pro<g ref="char:EOLhyphen"/>miſe made by the ſure<g ref="char:EOLhyphen"/>ties.</note> that the old man in theſe children may be ſo buryed, that the new man may be raiſed up in them.</p>
+            <p>Grant that all carnall affections may die in them, and that all things belonging to the Spirit, may live and grow in them.</p>
+            <p>Grant that whoſoever is here dedicated to thee by our office and miniſtry, may alſo be endued with heavenly vertues.</p>
+         </div>
+         <div n="5" type="chapter">
+            <pb n="10" facs="tcp:63916:12"/>
+            <head>CHAP. V. <hi>Of the giving of internall grace to men.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Hoſe places that affirme, that God gives grace, as faith and repentance and the like, prove that God doth more then perſwade ex<g ref="char:EOLhyphen"/>ternally, or give ſome power, that men may beleeve or repent, becauſe they ſay, that God gives the things themſelves. God is not the giver of that which we attain to only by his perſwaſion, nor chiefly to be commended for it, but he that attains to it: as on the con<g ref="char:EOLhyphen"/>trary, the devill was not the authour of</hi> Adams <hi>ſinne, nor chiefly to be condemned for it, becauſe he did but perſwade him to it,</hi> Adams <hi>own will did it, and himſelf was moſt to be blamed for it. So in all Logick and Law the actour is the principall, the Counſellers are inſtruments and acceſ<g ref="char:EOLhyphen"/>ſaries. And Kings were ever held above their Councell, and more praiſe worthy for doing well, then they for advi<g ref="char:EOLhyphen"/>ſing. Now that God gives us thoſe graces, let us heare out of the Records.</hi>
+            </p>
+            <p>Lord from whom all good things doe come. <note place="margin">
+                  <hi>Collect.</hi> 5. <hi>Sunday af-Eaſter. Collect.</hi> 7. <hi>Sunday af<g ref="char:EOLhyphen"/>ter Trinity. Sunday</hi> 23. <hi>Prayer.</hi> 1. <hi>in Matrim. Lords pray<g ref="char:EOLhyphen"/>er by D. Cox</hi>
+               </note>
+            </p>
+            <p>Lord which art the author and giver of all good things.</p>
+            <p>God the author of all godlineſſe.</p>
+            <p>O eternall God giver of all ſpirituall grace the au<g ref="char:EOLhyphen"/>thor of everlaſting life.</p>
+            <p>Thine Holy Ghoſt into us poure with all his gifts moſt plenteouſly.</p>
+            <p>
+               <hi>See more to the ſame purpoſe in the Homily for</hi> Roga<g ref="char:EOLhyphen"/>tion
+<pb n="11" facs="tcp:63916:12"/>
+               <hi>weeke, Part.</hi> 1.2.3. <hi>Now. Cat. queſt.</hi> 249.</p>
+            <p>O God from whom all holy deſires, <note place="margin">
+                  <hi>Even. pray. Coll.</hi> 2.</note> all good coun<g ref="char:EOLhyphen"/>ſailes, and all juſt works doe proceed.</p>
+            <p>That it may pleaſe thee to endue the Lords of the Councell, and all the Nobility with grace.
+<note place="margin">
+                  <hi>The Letany The Letany Alſo, Coll.</hi> 13. <hi>after Trin.</hi>
+               </note>
+            </p>
+            <p>That it may pleaſe thee to give to all thy people encreaſe of grace to heare meekely thy word, and to receive it with pure affection, and to bring forth the fruits of the Spirit.</p>
+            <q>
+               <l>Thou in thy gifts art manifold, <note place="margin">Come holy Ghoſt eter<g ref="char:EOLhyphen"/>nall God.</note>
+               </l>
+               <l>whereby Chriſts Church doth ſtand:</l>
+               <l>In faithfull hearts writing thy law,</l>
+               <l>the finger of Gods hand.</l>
+               <l>Wee beſeech him to grant us true repentance. <note place="margin">
+                     <hi>Abſolution. Short pray<g ref="char:EOLhyphen"/>after the Creede. Coll. Quin. ſunday. Coll.</hi> 7. <hi>ſun. after Trin. Prayer for Church mil. Reaſon</hi> 2. <hi>of Confirm.</hi>
+                  </note>
+               </l>
+               <l>Indue thy Miniſters with righteouſneſſe.</l>
+            </q>
+            <p>Send thy Holy Ghoſt, and poure into our hearts that moſt excellent gift of charity.</p>
+            <p>Graffe in our hearts the love of thy name.</p>
+            <p>Inſpire continually the univerſall Church with the Spirit of truth, unity and concord.</p>
+            <p>Confirmation is miniſtred to them, that be bapti<g ref="char:EOLhyphen"/>ſed, that by impoſition of hands, and prayer they may receive ſtrength, and defence againſt all temp<g ref="char:EOLhyphen"/>tations to ſinne, and the aſſaults of the world and the devill.</p>
+            <q>
+               <l>Arme and make ſtrong thy feeble hoaſt, <note place="margin">Lords pray. by D. Coxe.</note>
+               </l>
+               <l>with faith, and with the Holy Ghoſt.</l>
+            </q>
+            <p>Every good and heavenly gift, as faith, hope, <note place="margin">
+                  <hi>Hom. of faſt Part.</hi> 2.</note> cha<g ref="char:EOLhyphen"/>rity, cometh onely, and ſolely of God.</p>
+            <p>God give us grace to follow Chriſts example in peace and charity, in patience and ſufferance. <note place="margin">
+                  <hi>Paſs. Ser.</hi> 1.</note>
+            </p>
+            <p>Thou haſt received Chriſts body to have within <note place="margin">Reſur. ſerm.</note>
+               <pb n="12" facs="tcp:63916:13"/>thee the Father, the Sonne, and the Holy Ghoſt for to dwell with thee, to endow thee with grace to ſtreng then thee againſt thine enemies.</p>
+            <p>By the aſſiſtance of Gods holy Spirit we be re<g ref="char:EOLhyphen"/>pleniſhed with all righteouſneſſe,
+<note place="margin">In the ſame place.</note> by his power we are able to ſubdue all our evill affections.</p>
+            <p>God is preſent in his choſen all whole in Majeſtie together with all his power,
+<note place="margin">In the ſame place.</note> wiſdome, and goodnes.</p>
+            <p>From God as from a giver, <note place="margin">In the ſame place. Hom. for Whitſun<g ref="char:EOLhyphen"/>day.</note> come theſe graces and gifts, kindneſſe, meekneſſe, patience.</p>
+            <p>Some men will ſay, How ſhall I know, that the Holy Ghoſt is within me? As the tree is knowne by the fruit, ſo is alſo the Holy Ghoſt.</p>
+            <p>The fruits of the Holy Ghoſt are love, <note place="margin">
+                  <hi>Part.</hi> 1.</note> joy, peace, long ſuffering, gentleneſſe, goodneſſe, faithfulneſſe, meekneſſe, temperance.</p>
+            <p>Of our ſelves we be crabbe-trees, <note place="margin">
+                  <hi>Hom. of mans miſe<g ref="char:EOLhyphen"/>ry. Part.</hi> 2.</note> that can bring forth no apples. We be of our ſelves of ſuch earth, as can but bring forth weeds, nettles, brambles, bry<g ref="char:EOLhyphen"/>ers, cockle and darnell. Our fruits be declared, <hi>Gal.</hi> 5. We have neither faith, charity, hope, patience, chaſtity, nor any thing elſe that good is, but of God, and therefore theſe vertues be called there the fruits of the Holy Ghoſt, and not the fruits of man.</p>
+            <p>We ought firſt to crave things that properly be<g ref="char:EOLhyphen"/>long to the ſalvation of the ſoule,
+<note place="margin">
+                  <hi>Hom. of prayer. Part.</hi> 3.</note> as the gift of re<g ref="char:EOLhyphen"/>pentance, the gift of faith, the gift of charity and good works, patience, lowlineſſe, hope, joy, love, peace, which things God requireth of all thoſe that profeſſe themſelves his children.</p>
+            <p>This holy company (of Saints in heaven) confeſ<g ref="char:EOLhyphen"/>ſeth conſtantly, <note place="margin">
+                  <hi>Rogat. ſerm. Part.</hi> 1.</note> that all the goods and graces, where<g ref="char:EOLhyphen"/>with
+<pb n="13" facs="tcp:63916:13"/>with they were endued in ſoule, came of the goodnes of God onely. It is meet therefore to thinke, that all ſpirituall goodneſſe cometh from God above onely.</p>
+            <p>We muſt needs agree, <note place="margin">In the ſame place.</note> that whatſoever good thing is in us of grace, nature or fortune, is of God onely, as the onely author and worker.</p>
+            <p>Let us confeſſe that of our ſelves cometh all evill and damnation, <note place="margin">
+                  <hi>Hom. of mans miſe<g ref="char:EOLhyphen"/>ry. Part.</hi> 2. <hi>Rogat. ſerm. Part.</hi> 2.</note> and of God all goodneſſe and ſalva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>If we confeſſe that all grace of the ſoule is of God, and is his gift onely, it will teach us to thank God for them: it will abate our pride, when we perceive, that nothing comes of our ſelves, but ſinne and vice: it will keepe us from deſpiſing ſuch as have fewer gifts: it will make us to have recourſe to God for all grace.</p>
+         </div>
+         <div n="6" type="chapter">
+            <head>CHAP. VI. <hi>Of the receiving of grace.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>F by another ſpeciall grace of God, we doe re<g ref="char:EOLhyphen"/>ceive the grace and favour, that God offers us in his holy word, then there is no queſtion, but God doth worke effectually, where he doth regenerate. Let us therefore heare, what the Church teacheth us in that behalfe.</hi>
+            </p>
+            <p>ALmighty God give us the grace, <note place="margin">
+                  <hi>Coll. Sund.</hi> 2. <hi>after Eaſter. Coll. S. Andrews day.</hi>
+               </note> that we may al<g ref="char:EOLhyphen"/>wayes moſt thankfully receive that his ineſtima<g ref="char:EOLhyphen"/>ble benefit, to wit, of the death of Chriſt.</p>
+            <p>Almighty God which didſt give ſuch grace unto
+<pb n="14" facs="tcp:63916:14"/>thy holy Apoſtle S. <hi>Andrew,</hi> that he readily obeyed the calling of thy Sonne Jeſus Chriſt, and followed him without delay: grant unto us all, that we being called by thy holy word, may forthwith give over our ſelves obediently to follow thy holy commande<g ref="char:EOLhyphen"/>ments through the ſame Jeſus Chriſt our Lord.</p>
+            <p>Grant us grace to follow thy ſonne Jeſus Chriſt. <note place="margin">
+                  <hi>Coll. S. Matthews day. Prayer for Church militant. Prayer</hi> 3. <hi>in Confirm.</hi>
+               </note>
+            </p>
+            <p>To all thy people give thy heavenly grace, and ſpecially to this congregation here preſent, that with meek heart and due reverence they may heare and receive thy holy word.</p>
+            <p>Let thy fatherly hand we beſeech thee, ever be over theſe children, let thy holy Spirit ever be with them, and ſo lead them in the knowledge and obedience of thy word, that in the end they may obtaine the ever<g ref="char:EOLhyphen"/>laſting life.</p>
+            <p>Send thy heavenly bleſſing ſo upon theſe thy miniſters, <note place="margin">Prayer laſt in ord. of Prieſts.</note> that thy word ſpoken by their mouthes may have ſuch ſucceſſe, that it may never be ſpoken in vaine. Grant alſo that we may have grace to heare and receive the ſame, as thy moſt holy word.</p>
+            <p>By faith given us of God we imbrace the promiſe of Gods mercy, <note place="margin">
+                  <hi>Serm. of Salvation. Part.</hi> 3. <hi>Hom. for Whitſun<g ref="char:EOLhyphen"/>day. Part.</hi> 1.</note> and of the remiſſion of our ſinnes.</p>
+            <p>Let us humbly beſeech God ſo to worke in our hearts by the power of his holy Spirit, that we being regenerate and newly borne againe in all goodneſſe, righteouſneſſe, ſobriety, and truth, may in the end obtaine eternall life.</p>
+            <p>God of his great mercy ſo work in all mens hearts by the mighty power of the Holy Ghoſt,
+<note place="margin">
+                  <hi>Part.</hi> 2.</note> that the Goſpell may be truely preached, truely received, and truely followed in all places.</p>
+            <pb n="15" facs="tcp:63916:14"/>
+            <p>By the worke of the Holy Ghoſt we receive this grace of God, whereunto we are reſtored.
+<note place="margin">
+                  <hi>Now. Cat. queſt.</hi> 149.</note>
+            </p>
+         </div>
+         <div n="7" type="chapter">
+            <head>CHAP. VII. <hi>Of the internall effect of grace.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE books attribute the internall effects of grace to God alſo. For howſoever that grace that is given us in regeneration have ſome power to produce ſpirituall thoughts; yet becauſe our ſpi<g ref="char:EOLhyphen"/>rituall life is not ſo compleat, as our naturall life, and is much hindred from good inclinations by the corruptions of our fleſh remaining, ſo that it cannot do that good it would without a freſh ſupply of Gods aſsiſting grace, therefore the help of God is ſtill implored, and the praiſe of the effect given to him. Now if in a man regenerate there be need of more grace to help that act, which he hath already, then certainly the firſt work of grace, whereby a dead man is made alive ſpiritually, muſt needs be the only effectuall work of Gods Spirit. For if he cannot thinke what he would, now he hath grace, at all times without further help, then certainly before he had grace, he could do no<g ref="char:EOLhyphen"/>thing pleaſing to God. This head of the internall effects of grace is the largeſt of all the reſt. We will therefore di<g ref="char:EOLhyphen"/>vide it into two parts. Firſt, we will treat of the inter<g ref="char:EOLhyphen"/>nall effect of Gods grace in generall in the regenerate. Secondly, of the particular effects of it.</hi>
+            </p>
+            <p>
+               <hi>For the Firſt.</hi>
+            </p>
+            <p>
+               <hi> The effect of grace in generall is ſet down in theſe places.</hi>
+            </p>
+            <p>O God from whom all holy deſires, <note place="margin">
+                  <hi>Collect.</hi> 2. <hi>Even. Pray.</hi>
+               </note> all good coun<g ref="char:EOLhyphen"/>ſels and all juſt works do proceed.</p>
+            <pb n="16" facs="tcp:63916:15"/>
+            <p>That it may pleaſe thee to endue the Lords of the Counſell, <note place="margin">Letany.</note> and all the Nobilitie with grace.</p>
+            <p>That it may pleaſe thee to give to all thy people increaſe of grace, <note place="margin">Letany.</note> to heare meekly thy word, and to receive it with pure affection, and to bring forth the fruits of the Spirit.</p>
+            <p>O God from whom all good things do proceed. <note place="margin">
+                  <hi>Coll. Sund.</hi> 5. <hi>after Ea<g ref="char:EOLhyphen"/>ſter. Sund.</hi> 7. <hi>af<g ref="char:EOLhyphen"/>ter Trin. Sunday</hi> 13. <hi>after Trin. Coll. Sund.</hi> 23. <hi>after Trin. Prayer</hi> 1. <hi>in Matrim. Veni Crea<g ref="char:EOLhyphen"/>tor.</hi>
+               </note>
+            </p>
+            <p>O God the Authour and giver of all good things.</p>
+            <p>Almightie and mercifull God, of whoſe onely gift it cometh, that thy faithfull people do unto thee true and laudable ſervice.</p>
+            <p>God our refuge and ſtrength, which art the au<g ref="char:EOLhyphen"/>thour of all godlineſſe.</p>
+            <p>O eternall God giver of all ſpirituall grace, the authour of everlaſting life.</p>
+            <q>
+               <l>Thou in thy gifts art manifold,</l>
+               <l>whereby Chriſts Church doth ſtand:</l>
+               <l>In faithfull hearts writing the law,</l>
+               <l>the finger of Gods hand.</l>
+               <l>Thine holy Ghoſt into us poure, <note place="margin">Lords pray. by D. Coxe.</note>
+               </l>
+               <l>with all his gifts moſt plenteouſly.</l>
+            </q>
+            <p>Whatſoever is good proceedeth from God as from the principall fountain, <note place="margin">
+                  <hi>Rogat. Ser. Part.</hi> 1.</note> and the only authour. All good things come down to us from above from the Father of light.</p>
+            <p>
+               <hi>The Title of the Sermon is,</hi>
+            </p>
+            <p>That all good things cometh from God.</p>
+            <p>In Chriſt God the Father doth bleſſe us with all ſpirituall and heavenly gifts.
+<note place="margin">
+                  <hi>Part.</hi> 3.</note>
+            </p>
+            <p>God is the giver of all good things. <note place="margin">
+                  <hi>Now. Cat. queſt.</hi> 249.</note>
+            </p>
+            <p>
+               <hi>The particular effects of grace are ſeene either in mor<g ref="char:EOLhyphen"/>tifying of vice, or exerciſing of vertue in the heart. I will
+<pb n="17" facs="tcp:63916:15"/>begin with thoſe places that ſpeake of mortifying of vice.</hi>
+            </p>
+            <p>Almightie God mortifie and kill all vices in us. <note place="margin">
+                  <hi>Coll. Innoc. day. Cat. in the Common Prayer book queſt.</hi> 15.18 <hi>Complaint of a ſinner.</hi>
+               </note>
+            </p>
+            <p>A Sacrament is an externall and viſible ſign, of an internall and ſpirituall grace given unto us. This grace in Baptiſme is a dying unto ſinne, and living unto righteouſneſſe.</p>
+            <q>
+               <l>Now let thoſe drops moſt ſweet</l>
+               <l>So moiſt my heart moſt dry,</l>
+               <l>That I with finne replete</l>
+               <l>May live and ſinne may dye,</l>
+               <l>That being mortifide</l>
+               <l>This ſinne of mine in mee,</l>
+               <l>I may be ſanctifide</l>
+               <l>By grace of thine in thee,</l>
+               <l>So that I never fall</l>
+               <l>Into ſuch mortall ſinne,</l>
+               <l>That my foes infernall</l>
+               <l>Rejoyce my death therein:</l>
+               <l>But vouchſafe me to keep</l>
+               <l>From thoſe infernall foes,</l>
+               <l>And from that lake ſo deep,</l>
+               <l>Whereas no mercy growes.</l>
+            </q>
+            <p>Make us to follow the doctrin of <hi>Iohn</hi> the <hi>Baptiſt,</hi> 
+               <note place="margin">
+                  <hi>Coll. on S. Iohn Bapt. day. Prayer</hi> 1. <hi>added to Set. Faſt.</hi> 1625. <hi>Prayer.</hi> 4. <hi>Thanksg. for ceaſing plague,</hi> 1604.</note> that we may truly repent according to his preaching.</p>
+            <p>Give us thy heavenly grace, that we may truly and earneſtly repent.</p>
+            <p>As thou gaveſt the Ninivites repentance through thy grace, ſo now viſit the hearts of thy people in this land with thine heavenly grace and holy Spirit, that they may ſpeedily and ſoundly return unto thee from all their wicked wayes, in true repentance and a li<g ref="char:EOLhyphen"/>ving faith in Jeſus Chriſt.</p>
+            <pb n="18" facs="tcp:63916:16"/>
+            <p>
+               <hi>See the like in the Evening prayers ſet forth in the rainy weather,</hi> 1613. <hi>Homily of falling from God. Part.</hi> 2. <hi>Homily againſt wilfull rebellion. Part.</hi> 1. <hi>Collect.</hi> 1. <hi>in Thankſgiving. Novemb. 5. and the next prayer there:</hi>
+            </p>
+            <p>Grant us the true circumciſion of the Spirit, <note place="margin">Collect. on Circumciſ. of Chriſt.</note> that our hearts and all our members being mortified from all worldly and carnall luſts, may in all things obey thy bleſſed will.</p>
+            <p>Grant us ſo to put away the leaven of malice and wickedneſſe, <note place="margin">Coll. on Ea<g ref="char:EOLhyphen"/>ſter tueſday.</note> that we may alwayes ſerve thee in pure<g ref="char:EOLhyphen"/>neſſe of living and truth.</p>
+            <p>Grant that we forſaking all worldly and carnall affections, <note place="margin">Coll. on S. Iames day.</note> may be evermore ready to follow thy commandments.</p>
+            <q>
+               <l>To withſtand Satans invaſion</l>
+               <l>Give power and ſtrength to every age. <note place="margin">
+                     <hi>Lords Pr. by D. Cox. Prayer to the holy Ghoſt before the Serm. Coll. before Epiſ. Faſt.</hi> 1625. <hi>Thanksgi<g ref="char:EOLhyphen"/>ving follow<g ref="char:EOLhyphen"/>ing. Coll.</hi> 1. <hi>Prayer.</hi> 2. <hi>There after the Goſpel. Prayer a<g ref="char:EOLhyphen"/>gainſt rebel. in the Hom. Cain Com. Pray. book. queſt.</hi> 24.</note>
+               </l>
+               <l>O holy Ghoſt viſit our coaſt,</l>
+               <l>Defend us with thy ſhield:</l>
+               <l>Againſt all ſinne and wickedneſſe,</l>
+               <l>Lord help us win the field.</l>
+               <l>Create and make new hearts within us O Lord.</l>
+            </q>
+            <p>Give unto us ſuch effectuall grace, that every one of us beholding the plague of his own heart, we may abhorre our corruptions, and turn our ſelves away from our evill wayes.</p>
+            <p>Give us grace that we may not any more provoke thine indignation againſt us by our tranſgreſſions.</p>
+            <p>Make ſoft and tender the ſtony hearts of all thoſe that exalt themſelves againſt thy truth.</p>
+            <p>Our ſoules are ſtrengthened and refreſhed with the body and bloud of Chriſt, as our bodies are with bread and wine.</p>
+            <pb n="19" facs="tcp:63916:16"/>
+            <p>By the ſtrength of the holy Ghoſt ſinfull fleſh is ſubdued and tamed,
+<note place="margin">
+                  <hi>Now. Cat. queſt.</hi> 144.</note> and corrupt deſires are brideled and reſtrained.</p>
+            <p>We pray that God will with the moving of his ho<g ref="char:EOLhyphen"/>ly Spirit, <note place="margin">
+                  <hi>Queſt.</hi> 208.</note> ſo change and faſhion all the wils of us all to the will of his Majeſtie, that we may will or wiſh nothing, that his divine will miſliketh.</p>
+            <p>Thus much for the effects of grace in mortifying of vice, now follow thoſe that belong to the execu<g ref="char:EOLhyphen"/>ting vertue in the ſoul.</p>
+            <p>That it may pleaſe thee to give us an heart to love and dread thee, <note place="margin">Letany.</note> and diligently to live after thy com<g ref="char:EOLhyphen"/>mandments.</p>
+            <p>By thy ſpeciall grace preventing us, <note place="margin">
+                  <hi>Collect. on Eaſter day. Sund.</hi> 4. <hi>af<g ref="char:EOLhyphen"/>ter Eaſter.</hi>
+               </note> thou doſt put into our hearts good deſires.</p>
+            <p>Almightie God which doſt make the minds of all faithfull men to be of one will, grant unto thy peo<g ref="char:EOLhyphen"/>ple, that they may love the thing, which thou com<g ref="char:EOLhyphen"/>mandeſt, and deſire that which thou doſt promiſe.</p>
+            <p>Grant us thy humble ſervants, <note place="margin">
+                  <hi>Coll. Sund.</hi> 5. <hi>after Ea<g ref="char:EOLhyphen"/>ſter. Sund.</hi> 3. <hi>af<g ref="char:EOLhyphen"/>ter Trinity. Sund.</hi> 6. <hi>af<g ref="char:EOLhyphen"/>ter Trinity.</hi>
+               </note> that by thy holy inſpiration we may think thoſe things that be good.</p>
+            <p>Lord to whom thou haſt given an hearty deſire to pray.</p>
+            <p>O God poure into our hearts ſuch love toward thee, that we loving thee in all things may obtaine thy promiſes.</p>
+            <p>That thy ſervants may obtaine their petitions, <note place="margin">
+                  <hi>Sund.</hi> 10. <hi>af<g ref="char:EOLhyphen"/>ter Trinity.</hi>
+               </note> make them to aske ſuch things as ſhall pleaſe thee.</p>
+            <p>Grant we beſeech thee, <note place="margin">
+                  <hi>Sunday</hi> 13.</note> that we may ſo run to thy heavenly promiſes, that we raile not finally to attain the ſame.</p>
+            <p>That we may obtaine that which thou doſt pro<g ref="char:EOLhyphen"/>miſe, <note place="margin">
+                  <hi>Sunday</hi> 14.</note>
+               <pb n="20" facs="tcp:63916:17"/>make us to love that which thou doſt com<g ref="char:EOLhyphen"/>mand.</p>
+            <p>Grant thy people grace with pure heart and minde to follow thee the onely God.
+<note place="margin">
+                  <hi>Sund.</hi> 18.</note>
+            </p>
+            <p>Grant we beſeech thee unto thy Church to love that he beleeved. <note place="margin">
+                  <hi>Coll. on S. Barthol. day. Coll. on Sim and Iudes day. Prayer at begin. of Commande<g ref="char:EOLhyphen"/>ments. Prayer af<g ref="char:EOLhyphen"/>ter each command. After the laſt com<g ref="char:EOLhyphen"/>mandement. Prayer of the Prieſt in the name of the commu<g ref="char:EOLhyphen"/>nicants. Prayer.</hi> 2. <hi>after receiv<g ref="char:EOLhyphen"/>ing the communion. Prayer.</hi> 2. <hi>in the ſhort ones after the commu<g ref="char:EOLhyphen"/>nion. Prayer.</hi> 3.</note>
+            </p>
+            <p>Grant us ſo to be joyned together in unity of Spi<g ref="char:EOLhyphen"/>rit by their doctrine, that we may be an holy Temple acceptable to thee.</p>
+            <p>Cleanſe our hearts that we may perfectly love thee and worthily magnify thy holy name.</p>
+            <p>Lord have mercy upon us, and incline our hearts to keepe this law.</p>
+            <p>Lord write all theſe thy lawes in our hearts we be<g ref="char:EOLhyphen"/>ſeech thee.</p>
+            <p>Grant us therefore gracious Lord ſo to eate the fleſh of thy deare Sonne Jeſus Chriſt, and to drinke his bloud, that our ſinfull bodies may be made clean by his body, and our ſoules waſhed through his moſt precious bloud.</p>
+            <p>We moſt humbly beſech thee O heavenly Father ſo to aſſiſt us with thy grace, that we may continue in that holy fellowſhip.</p>
+            <p>O Almighty Lord and everliving God, vouch<g ref="char:EOLhyphen"/>ſafe, we beſeech thee to direct, ſanctifie, and govern, both our hearts and bodies in the wayes of thy lawes, and in the works of thy Commandements.</p>
+            <p>Grant we beſeech thee Almighty God, that, the words which we have heard this day with our out<g ref="char:EOLhyphen"/>ward eares, may through thy grace be ſo graffed in<g ref="char:EOLhyphen"/>wardly in our hearts, that they may bring forth in us the fruit of good living.</p>
+            <pb n="21" facs="tcp:63916:17"/>
+            <p>Sanctify and waſh theſe children with the Holy Ghoſt, <note place="margin">
+                  <hi>Prayer.</hi> 1. <hi>in Baptiſme.</hi>
+               </note> that they being delivered from thy wrath may be received into the Arke of Chriſts Church, &amp; being ſtedfaſt in faith, joyfull through hope, and rooted in charity, may ſo paſſe the waves of this troubleſome world, that finally they may come to the land of e<g ref="char:EOLhyphen"/>verlaſting life.</p>
+            <p>I deſire my Lord God our heavenly Father, <note place="margin">
+                  <hi>Cat in com<g ref="char:EOLhyphen"/>mon prayer booke queſt.</hi> 13.</note> who is the giver of all goodnes, to ſend his grace unto me, and to all people that we may worſhip him, ſerve him, and obey him, as we ought to doe.</p>
+            <p>Daily increaſe in theſe thy ſervants, <note place="margin">
+                  <hi>Prayer.</hi> 1. <hi>in confirm.</hi>
+               </note> thy manifold gifts of grace, the ſpirit of wiſdome and underſtand<g ref="char:EOLhyphen"/>ing, the ſpirit of counſaile, and ghoſtly ſtrength, the ſpirit of knowledge and true godlineſſe, and fulfill them, O Lord, with the ſpirit of thy holy feare.</p>
+            <p>Almighty and everliving God, <note place="margin">
+                  <hi>Prayer.</hi> 3.</note> which makeſt us both to will and to doe thoſe things, that be good and acceptable unto thy Majeſty.</p>
+            <p>The Lord ſo fill you with all ſpirituall benediction and grace, that you may ſo live together in this life, <note place="margin">The Bleſſ<g ref="char:EOLhyphen"/>ing in mar<g ref="char:EOLhyphen"/>riage.</note> that in the world to come, you may have life ever<g ref="char:EOLhyphen"/>laſting.</p>
+            <p>Send thy bleſſing upon theſe thy ſervants, <note place="margin">
+                  <hi>Prayer.</hi> 2. <hi>in Matrim.</hi>
+               </note> that they obeying thy will, and alwayes being in ſafety, under thy protection, may abide in thy love to their lives end.</p>
+            <p>Grant that this man may love his wife according to thy word, <note place="margin">
+                  <hi>Prayer.</hi> 4.</note> and alſo that this woman may be a fol<g ref="char:EOLhyphen"/>lower of holy and godly Matrons.</p>
+            <p>Almighty God poure upon you the riches of his grace, ſanctifie and bleſſe you,
+<note place="margin">
+                  <hi>Prayer.</hi> 5. <hi>in Matrim.</hi>
+               </note> that ye may pleaſe
+<pb n="22" facs="tcp:63916:18"/>him both in body and ſoule, and live together in holy love unto your lives end.</p>
+            <p>Give this thy ſervant grace ſo to take thy viſitati<g ref="char:EOLhyphen"/>on, <note place="margin">
+                  <hi>Prayer</hi> 2. <hi>in viſita. of the ſicke. Prayer</hi> 3.</note> that after this painfull life ended, he may dwell with thee in life everlaſting.</p>
+            <p>Renew in this thy ſervant (moſt loving Father) whatſoever hath been decayed by the fraud and ma<g ref="char:EOLhyphen"/>lice of the Devill, or by his owne carnall will and fraileneſſe.</p>
+            <p>Thou moſt worthy Judge eternall, <note place="margin">
+                  <hi>Sentence.</hi> 4. <hi>in the buri<g ref="char:EOLhyphen"/>all. Laſt prayer in buriall.</hi>
+               </note> ſuffer us not at our laſt houre for any paines of death to fall from thee.</p>
+            <p>We meekly beſeech thee (O Father) to raiſe us from the death of ſin unto the life of righteouſneſſe.</p>
+            <q>
+               <l>O Holy Ghoſt</l>
+               <l>Viſit our mindes and unto us, <note place="margin">Veni Crea<g ref="char:EOLhyphen"/>tor Spiri<g ref="char:EOLhyphen"/>tus.</note>
+               </l>
+               <l>thy heavenly grace inſpire:</l>
+               <l>That in all truth, and godlineſſe,</l>
+               <l>we may have true deſire.</l>
+               <l>To us ſuch plenty of thy grace, <note place="margin">In the ſame bymne.</note>
+               </l>
+               <l>good Lord grant we thee pray:</l>
+               <l>That thou mayſt be our comforter,</l>
+               <l>at the laſt dreadfull day.</l>
+               <l>Grant we pray not with lips alone, <note place="margin">Lords pray. by D. Coxe. Prayer laſt in order Deacons.</note>
+               </l>
+               <l>But with the hearts deepe ſigh and grove.</l>
+            </q>
+            <p>Make theſe Deacons to be modeſt, humble, and conſtant in their miniſtration, to have a ready will to obſerve all ſpirituall diſcipline, that they continuing ever ſtable and ſtrong in thy Sonne Chriſt, may well uſe themſelves in this office.</p>
+            <p>Almighty God our heavenly Father, <note place="margin">
+                  <hi>Prayer.</hi> 2. <hi>in Conſecr. of Biſhops.</hi>
+               </note> who hath given you a good-will to doe all theſe things, &amp;c.</p>
+            <pb n="23" facs="tcp:63916:18"/>
+            <p>Governe us by thy holy Spirit to frame in us a newneſſe of life therein to laud and magnifie thy bleſſed name, for ever, <note place="margin">
+                  <hi>Prayers in the faſt.</hi> 1625. <hi>Coll.</hi> 1.</note> and to live every one of us according to the ſeverall ſtate of life, whereunto thou Lord haſt ordained us in godly feare, and trembling before thee.</p>
+            <p>Grant us grace, and true repentance, ſtedfaſt faith, <note place="margin">
+                  <hi>Prayers in the faſt.</hi> 1625. <hi>Coll.</hi> 1.</note> and conſtant patience, that whither we live or die, we may alwayes continue thine, and ever praiſe thy holy name, and by thy great mercy be pertakers of grace in this life, &amp; eternall glory in the life to come.</p>
+            <p>Grant us a due care and conſcience in our ſelves to uſe all good meanes of recovery:
+<note place="margin">
+                  <hi>Prayer.</hi> 6. <hi>added to the Letany.</hi>
+               </note> that neither we tempt thy Majeſty by preſumption in contemning of the contagion; or neglecting of the meanes of avoid<g ref="char:EOLhyphen"/>ing, removing and repreſſing the ſame: neither de<g ref="char:EOLhyphen"/>ſpaire of thy goodneſſe, or murmure againſt the pro<g ref="char:EOLhyphen"/>vidence (if we be not ſo ſoone eaſed and delivered as we deſire) but that we may (ſubmitting our ſelves, in all things to thy good will and pleaſure) ſeeke thy mercifull favour for our releaſe and ſuccour, by true faith and repentance: uſe the meanes for eaſe, which thou giveſt us with care and diligence: helpe the af<g ref="char:EOLhyphen"/>flicted and preſerve the whole with compaſſionate pitty and charity: and finally depend upon thy provi<g ref="char:EOLhyphen"/>dence, and waite for thy gracious deliverance with conſtant hope and patience.</p>
+            <p>Send us light in our underſtanding, <note place="margin">
+                  <hi>Prayers in the faſt.</hi> 1626. <hi>Pray.</hi> 1. <hi>added to Letany. Art.</hi> 10.</note> readineſſe and obedience in our will.</p>
+            <p>We can doe nothing pleaſing to God without Gods grace through Chriſt preventing us, that we may have a good will, and working with us, when we have a good will.</p>
+            <pb n="24" facs="tcp:63916:19"/>
+            <p>In the man that is born again the underſtanding is inlightned, <note place="margin">
+                  <hi>Rogers on that Art. Prop.</hi> 3.</note> and the minde wholly changed, and the body is made able to produce good works.</p>
+            <p>They that are predeſtinated are both juſtified by faith, <note place="margin">
+                  <hi>Prop.</hi> 7. <hi>on Art.</hi> 17.</note> and ſanctified by the Spirit, and ſhall be glorifi<g ref="char:EOLhyphen"/>ed in the life to come.</p>
+            <p>Grant that the King may through thy grace in all honour, <note place="margin">
+                  <hi>Prayer for March</hi> 27.1. <hi>Pr. added to Letany. Laſt prayer ſave one.</hi>
+               </note> vertue, and godlineſſe, continue his glori<g ref="char:EOLhyphen"/>ous reigne over us many yeers.</p>
+            <p>Bleſſe the Kings royall allyance with the dew of thy heavenly Spirit, that they ever truſting in thy goodneſſe, and protected by thy power, may after death obtain eternall glory.</p>
+            <p>The Scriptures have power to turn through Gods promiſe, <note place="margin">
+                  <hi>Hom. of ex<g ref="char:EOLhyphen"/>hort. to read Script. Part.</hi> 1. <hi>In the ſame place. Part.</hi> 2.</note> and be effectuall through Gods aſſiſtance.</p>
+            <p>In reading Gods word he profits moſt, that is moſt turned into it, that is moſt inſpired with the holy Ghoſt.</p>
+            <p>Read not the Scriptures without daily praying to God, that he would direct your reading to good effect. <note place="margin">
+                  <hi>In the ſame place. Ser. of Salu. Part.</hi> 1. <hi>In the ſame place. Serm. of Truth. Part.</hi> 1. <hi>Sermon a<g ref="char:EOLhyphen"/>gainſt adul<g ref="char:EOLhyphen"/>tery. In the ſame place.</hi>
+               </note>
+            </p>
+            <p>Let us pray to God, that we may ſpeak, think, be<g ref="char:EOLhyphen"/>leeve, live, and depart hence according to the whol<g ref="char:EOLhyphen"/>ſome doctrin of the Scriptures.</p>
+            <p>True faith is not ours, but by Gods working in us.</p>
+            <p>A true and lively faith is the gift of God.</p>
+            <p>God gave the Fathers then grace to be his chil<g ref="char:EOLhyphen"/>dren, as he doth us now.</p>
+            <p>We are ſanctified and made holy by the blood of Chriſt through the holy Ghoſt.</p>
+            <p>God grant that theſe words againſt adultery may not be ſpoken in vain.</p>
+            <pb n="25" facs="tcp:63916:19"/>
+            <p>God by his holy word indueth his people aſſem<g ref="char:EOLhyphen"/>bled in his Church, <note place="margin">Hom. of right uſe of Church.</note> with the effectuous preſence of his heavenly grace.</p>
+            <p>God doth indue his people aſſembled in his Church, <note place="margin">
+                  <hi>Hom. a<g ref="char:EOLhyphen"/>gainſt perill of idol. Part.</hi> 1.</note> with the effectuall preſence of his grace by his word and promiſes to the attainment of worldly commodities, and all heavenly gifts, and life ever<g ref="char:EOLhyphen"/>laſting.</p>
+            <p>God vouchſafe to purifie our minds through faith in Chriſt, <note place="margin">
+                  <hi>Hom. of in<g ref="char:EOLhyphen"/>form of ſuch as take of<g ref="char:EOLhyphen"/>fence at ſome places of Script. Part.</hi> 2.</note> &amp; to inſtill the heavenly drops of his grace into our hard-ſtony hearts to ſupple the ſame, that we be not contemners and deriders of his word, but that with all humbleneſſe of minde and Chriſtian re<g ref="char:EOLhyphen"/>verence, we may indeavour our ſelves to heare and to read his ſacred Scriptures, and inwardly, ſo to di<g ref="char:EOLhyphen"/>geſt them, as ſhall be to the comfort of our ſoules, and ſanctification of his holy Name.</p>
+            <p>Man is firſt made good by the Spirit and grace of God, that effectually worketh in him,
+<note place="margin">
+                  <hi>Hom. of Almſdeeds. Part.</hi> 2. <hi>Hom. of Almſdeeds. Part.</hi> 2. <hi>In the ſame place. In the ſame place.</hi>
+               </note> and afterwards bringeth forth good fruits.</p>
+            <p>The grace of God worketh all in all.</p>
+            <p>Whatſoever can be named good and profitable for body or ſoule, comes only of Gods mercy and meere favour, and not of our ſelves.</p>
+            <p>God attributes that unto us, and to our doings, that he by his Spirit worketh in us, and through his grace procureth for us.</p>
+            <p>God grant that we may alwayes ſhew our ſelves thankfull for Chriſts death,
+<note place="margin">
+                  <hi>Paſsion. Sermon.</hi> 2.</note> abhorring all kinde of wickedneſſe, and applying our minds wholly to the ſervice of God, and the diligent keeping of his com<g ref="char:EOLhyphen"/>mandments.</p>
+            <pb n="26" facs="tcp:63916:20"/>
+            <p>It is Gods Spirit which ingendreth a burning zeale towards Gods word. <note place="margin">
+                  <hi>Hom. for Whitſun<g ref="char:EOLhyphen"/>day. Part.</hi> 1. <hi>In the ſame place. In the ſame place.</hi>
+               </note>
+            </p>
+            <p>
+               <hi>Nicodemus</hi> knew not the power of the holy Ghoſt in this behalfe, that it is he which inwardly worketh the Regeneration, and new birth of mankinde.</p>
+            <p>It is the holy Ghoſt and no other thing that doth quicken the minds of men, ſtirring up good and god<g ref="char:EOLhyphen"/>ly motions in their hearts, which otherwiſe of their own crooked and perverſe nature they ſhould never have.</p>
+            <p>The fruits of faith, <note place="margin">In the ſame place.</note> charitable and godly motions, if man have any at all in him, they proceed onely of the holy Ghoſt, who is the only worker of our ſancti<g ref="char:EOLhyphen"/>fication, and maketh us new men in Chriſt Jeſus.</p>
+            <p>The Spirit of Jeſus is a good Spirit, <note place="margin">
+                  <hi>Part.</hi> 2.</note> an holy Spirit, a lowly Spirit, a mercifull Spirit. If any man live up<g ref="char:EOLhyphen"/>rightly, he hath the holy Ghoſt within him.</p>
+            <p>If the Saints in heaven were asked, <note place="margin">
+                  <hi>Serm. for Rogat. week. Part.</hi> 1.</note> who ſhould be thanked for their regeneration, juſtification, and ſal<g ref="char:EOLhyphen"/>vation, they would anſwer with <hi>David.</hi> Not to us Lord, but to thy Name give all the thanks.</p>
+            <p>If they be asked, <note place="margin">In the ſame place.</note> whence came all their glorious works, they would ſay with <hi>Eſay,</hi> O Lord it is thou of thy goodneſſe, that haſt wrought all our works in us, not we our ſelves.</p>
+            <p>They be juſtitiaries and hypocrites, <note place="margin">In the ſame place.</note> which rob Almightie God of this honour, and aſcribe it to themſelves.</p>
+            <p>Let us confeſſe, <note place="margin">
+                  <hi>Serm. for Rogat. week Part.</hi> 2.</note> that all ſpirituall graces behove<g ref="char:EOLhyphen"/>able for our ſoule come from God, without whoſe goodneſſe no man is called to faith or ſtayed therein.</p>
+            <p>God grant us all grace ſo to heare his word that we may fulfill it. <note place="margin">In the ſame place.</note>
+            </p>
+            <pb n="27" facs="tcp:63916:20"/>
+            <p>God give us grace to know thoſe things, <note place="margin">
+                  <hi>Part.</hi> 3.</note> and to feele them in our hearts. This knowledge and feel<g ref="char:EOLhyphen"/>ing is not in our ſelfe: by our ſelfe it is not poſſi<g ref="char:EOLhyphen"/>ble to come by it. Let us therefore meekly call upon the Holy Ghoſt, that he would aſſiſt us and inſpire us with his preſence, that in him we may be able to heare our ſalvation. For without his lively and ſecret inſpiration we cannot ſo much as name Chriſt. Much leſſe ſhould we be able to beleeve.</p>
+            <p>In Gods Spirit ſhall we be meet veſſels to receive the grace of Almighty God:
+<note place="margin">In the ſame place.</note> for it is he that purgeth and purifieth the minde by his ſecret working. He ſitteth in the tongue of man to ſtirre him to ſpeake his honour. He onely miniſtreth ſpirituall ſtrength to the powers of our ſoule and body. It is Gods Spi<g ref="char:EOLhyphen"/>rit, that maketh us to hold the way, which God hath prepared for us, and to pray boldly to God. If any gift we have, whereby we may worke to the glory of God, and profit of our neighbour, all is wrought by this Spirit.</p>
+            <p>The holy Spirit will confirme us in all things. <note place="margin">In the ſame place. Hom. of Matrim.</note>
+            </p>
+            <p>Married perſons muſt crave continually of God, the helpe of his holy Spirit ſo to rule their hearts, and to knit their minds together, that they be not diſ<g ref="char:EOLhyphen"/>ſevered by any diviſion of diſcord.</p>
+            <p>It is God that worketh in us both the will, <note place="margin">
+                  <hi>Serm. of Repen. Part.</hi> 1.</note> and the deed. <hi>Phil.</hi> 2. For this cauſe although <hi>Ieremy</hi> had ſaid before, If thou returne O <hi>Iſrael,</hi> returne unto me, ſaith the Lord, yet afterwards he ſaith, Turne thou me O Lord, &amp; I ſhall be turned, for thou art the Lord try God. <hi>Ier.</hi> 6. And therefore that holy writer and ancient Father <hi>Ambroſe</hi> doth plainely affirme, that
+<pb n="28" facs="tcp:63916:21"/>the turning of the heart to God is of God. <hi>Ambroſ. de vocat. gent. lib.</hi> 8. <hi>cap.</hi> 9. As the Lord himſelfe doth teſtifie by his Prophet, ſaying, And I will give thee an heart to know me, that I am the Lord, and they ſhall be my people, and I will be their God, for they ſhall returne unto me with their whole heart.</p>
+            <p>God vouchſafe by his holy Spirit to worke a true and unfained repentance in us.
+<note place="margin">In the ſame place.</note>
+            </p>
+            <p>If we repent, <note place="margin">
+                  <hi>Hom. a<g ref="char:EOLhyphen"/>gainſt wil<g ref="char:EOLhyphen"/>full rebell. Part.</hi> 1. <hi>Next pray. after Coll. Nove.</hi> 5. <hi>Now. Cat. queſt.</hi> 43. <hi>queſt.</hi> 128.</note> God will either take away evill Prin<g ref="char:EOLhyphen"/>ces, or of evill make them good.</p>
+            <p>Make us now and alwayes truly thankfull in heart, word, and deed, for all thy gracious mercies, and this our ſpeciall deliverance.</p>
+            <p>We muſt on the Sabbath reſt from our own works, and yeeld our ſelves wholly to Gods governance, that he may doe his workes in us.</p>
+            <p>From Chriſts reſurrection cometh unto us an en<g ref="char:EOLhyphen"/>deavour, vertue, and ſtrength to live well and holily.</p>
+            <p>Chriſt indueth us with ſtrength by the vertue and power of his reſurrection to riſe from the deadly workes of ſinne, <note place="margin">
+                  <hi>queſt.</hi> 129.</note> and live to righteouſneſſe.</p>
+            <p>The Spirit of God is called holy, <note place="margin">
+                  <hi>queſt.</hi> 142.</note> for that by him the elect of God and the members of Chriſt are made holy: for which cauſe the ſcriptures have cal<g ref="char:EOLhyphen"/>led him the ſpirit of ſanctification.</p>
+            <p>It is onely God which ſtrengthneth man and by whoſe grace the ſinner conceiveth this hope,
+<note place="margin">
+                  <hi>queſt.</hi> 164.</note> minde, and will.</p>
+            <p>Chriſt with the inſpiration and vertue of the Holy Ghoſt doth regenerate and newly forme us to the endeavour of innocency and holineſſe, <note place="margin">
+                  <hi>queſt.</hi> 173.</note> which we call newneſſe of life.</p>
+            <pb n="29" facs="tcp:63916:21"/>
+            <p>Faith is the gift of God, <note place="margin">
+                  <hi>queſt.</hi> 180.</note> and a ſingular and excel<g ref="char:EOLhyphen"/>lent gift.</p>
+            <p>The Holy Ghoſt hath wrought faith in my heart by the preaching of the Goſpel.
+<note place="margin">
+                  <hi>queſt.</hi> 249.</note>
+            </p>
+         </div>
+         <div n="8" type="chapter">
+            <head>CHAP. VIII. <hi>Of the purification of the heart.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">M</seg>Orall perſwaſion goes before any intent in man to purifie his owne heart. If then this latter act of purifying the heart, which muſt neceſsarily follow the intention of purg<g ref="char:EOLhyphen"/>ing be attributed to God, then muſt he needs doc more in the cenverſion of a ſinner then morally to perſwade him to purge his owne heart. Now that this act is aſcribed to God, the bookes can witneſſe.</hi>
+            </p>
+            <p>O God make cleane our hearts within us. <note place="margin">Short pray<g ref="char:EOLhyphen"/>ers after the Creed. Letany.</note>
+            </p>
+            <p>From all blindneſſe of heart, from pride, vaine<g ref="char:EOLhyphen"/>glory, and hypocriſy, from envy hatred and malice, Good Lord deliver us.</p>
+            <p>Grant us the true circumciſion of the Spirit, <note place="margin">Coll. on cir<g ref="char:EOLhyphen"/>cumciſion of Chriſt.</note> that our hearts being mortified from all worldly and car<g ref="char:EOLhyphen"/>nall luſts, &amp;c.</p>
+            <p>Create and make in us new and contrite hearts. <note place="margin">
+                  <hi>Coll.</hi> 1. <hi>day of Lent. Coll.</hi> 3. <hi>on good Fri<g ref="char:EOLhyphen"/>day. Coll. on Tueſday in Eaſter.</hi>
+               </note>
+            </p>
+            <p>Have mercy upon all Jews, Turkes, Infidels, and Hereticks, and take from them all ignorance, hard<g ref="char:EOLhyphen"/>neſſe of heart, and contempt of thy word.</p>
+            <p>Grant us ſo to put away the leaven of malice and wickedneſſe, that we may, &amp;c.</p>
+            <pb n="30" facs="tcp:63916:22"/>
+            <p>Grant that we may be preſented to thee with pure and cleane mindes. <note place="margin">
+                  <hi>Collect. on the Purif. of the virgin S. Mary. Coll. on S. Matthews day. Coll. on S. Lukes day. Hom. of In<g ref="char:EOLhyphen"/>form. of them which take offence &amp;c. Part.</hi> 2. <hi>end. Serm. for Rogat. week Part.</hi> 3.</note>
+            </p>
+            <p>Grant us grace to forſake all covetous deſires, and inordinate love of riches.</p>
+            <p>May it pleaſe thee by the wholeſome medicines of <hi>Lukes</hi> doctrine, to heale all the diſeaſes of our ſoules.</p>
+            <p>God therefore for his mercies ſake vouchſafe to purifie our mindes through faith in his Sonne Jeſus Chriſt, and to inſtill the heavenly drops of his grace into our hard ſtony hearts to ſupple the ſame, that we be not contemners and deriders of his infallible word.</p>
+            <p>In Gods Spirit ſhall we be meet veſſels to receive the grace of Almighty God. For it is he that purgeth and purifieth the minde by his ſecret working.</p>
+         </div>
+         <div n="9" type="chapter">
+            <head>CHAP. IX. <hi>Of the externall effect of grace.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>F the externall effects of grace come not alto<g ref="char:EOLhyphen"/>gether from the ſpirituall power put into us at the firſt, nor from the perſwaſions of the Mi<g ref="char:EOLhyphen"/>niſters, but God is ſaid to worke in us the deed as well as the will to doe well, and we taught to pray to God for ſuch effectuall grace, as may pro<g ref="char:EOLhyphen"/>duce good effects outwardly, then it follows that the grace it ſelf cannot be wrought in us onely by morall perſwaſion, but muſt be wrought in us by divine operation. Now whither the outward effects of grace be wrought by Gods aſsiſting ſpirit or no, let the authentick records of our Church ſpeak.</hi>
+            </p>
+            <pb n="31" facs="tcp:63916:22"/>
+            <p>O Lord open thou our lips, <note place="margin">Short pray<g ref="char:EOLhyphen"/>ers after the Lords Pr. Letany.</note> and our mouth ſhall ſhew forth thy praiſe.</p>
+            <p>That all Biſhops, Paſtours, and Miniſters of the Church, may both by their preaching and living, ſet forth and ſhew true knowledge and underſtanding.</p>
+            <p>That it may pleaſe thee to give the Magiſtrates grace to execute Juſtice, and to maintain truth. <note place="margin">Letany.</note>
+            </p>
+            <p>That it may pleaſe thee to give us an heart dili<g ref="char:EOLhyphen"/>gently to live after thy commandements.
+<note place="margin">Letany.</note>
+            </p>
+            <p>That it may pleaſe thee to give to all thy people increaſe of grace to heare meekly thy word, <note place="margin">Letany.</note> and to bring forth the fruits of the Spirit.</p>
+            <p>That it may pleaſe thee to endue us with the grace of thy holy Spirit, <note place="margin">Letany.</note> to amend our lives according to thy holy word.</p>
+            <p>Grant that we evermore ſerve thee in holineſſe and pureneſſe of living.
+<note place="margin">
+                  <hi>Prayer in the Letany before the prayer for the King. Prayer for the King. Prayer for the Biſhops. Coll. on</hi> 1. <hi>Sund. after Epiph. Coll. on</hi> 5. <hi>Sund. after Epiph. Coll. on</hi> 1. <hi>Sunday in Lent. Coll. on Sun. before Eaſt.</hi>
+               </note>
+            </p>
+            <p>So repleniſh the King with the grace of thy holy Spirit, that he may alway walk in thy way.</p>
+            <p>That Biſhops and Curats, and all Congregations committed to their charge may truly pleaſe thee, poure upon them the continuall dew of thy bleſſing.</p>
+            <p>Grant that thy people which call upon thee, may have grace and power faithfully to fulfill what they know, they ought to do.</p>
+            <p>Lord we beſeech thee to keep thy Church conti<g ref="char:EOLhyphen"/>nually in the true Religion.</p>
+            <p>Give us grace to uſe ſuch abſtinence, that our fleſh being ſubdued to the ſpirit, we may ever obey thy godly motions.</p>
+            <p>Mercifully grant that we both follow the example of Chriſts patience.</p>
+            <pb n="32" facs="tcp:63916:23"/>
+            <p>Receive our prayers, <note place="margin">2. <hi>Coll. on good Friday</hi>
+               </note> that every member of thy holy Congregation in his vocation, and miniſtry may truly and godly ſerve thee.</p>
+            <p>As by thy ſpeciall grace preventing us, <note place="margin">Collect. on Eaſter day.</note> thou didſt put in our minde good deſires, So we beſeech that by thy continuall help we may bring the ſame to good effect.</p>
+            <p>Grant that we may daily endeavour our ſelves, <note place="margin">
+                  <hi>Coll. on</hi> 2. <hi>Sund. after Eaſter. Coll. on</hi> 3. <hi>Sund. after Eaſter. Coll. on</hi> 1. <hi>Sunday af<g ref="char:EOLhyphen"/>ter Trinity.</hi>
+               </note> to follow the bleſſed ſteps of Chriſts moſt holy life.</p>
+            <p>Grant unto all them that be admitted into the fel<g ref="char:EOLhyphen"/>lowſhip of Chriſts religion, that they may follow all ſuch things as be agreeable to their profeſſion.</p>
+            <p>Becauſe the weaknes of our mortall nature can do no good thing without thee, grant us the help of thy grace, that in keeping of thy commandments we may pleaſe thee both in will and deed.</p>
+            <p>Grant us Lord we beſeech thee, <note place="margin">
+                  <hi>Coll. on</hi> 9. <hi>Sund. after Trinity.</hi>
+               </note> the Spirit to think and do alwayes ſuch things as be rightfull, that we which cannot be without thee, may by thee be able to live according to thy will.</p>
+            <p>Almightie and mercifull God of whoſe onely gift it cometh, <note place="margin">
+                  <hi>Coll. on</hi> 13. <hi>Sund. after Trinitie.</hi>
+               </note> that thy faithfull people do unto thee true and laudable ſervice.</p>
+            <p>Becauſe the frailtie of man without thee cannot but fall, <note place="margin">
+                  <hi>Coll. on</hi> 15. <hi>Sund. after Trinity. Coll. on</hi> 17. <hi>Sund. after Trinity.</hi>
+               </note> lead us to all things profitable to our ſalva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Lord we pray thee that thy grace may alwayes prevent, and follow us, and make us continually to be given to all goods works.</p>
+            <p>Lord we beſeech thee to keep the Church in con<g ref="char:EOLhyphen"/>tinuall godlineſſe, <note place="margin">
+                  <hi>Coll. on</hi> 22. <hi>Sund. after Trinity.</hi>
+               </note> that it may be devoutly given to ſerve thee in good works.</p>
+            <pb n="33" facs="tcp:63916:23"/>
+            <p>Grant unto us all, <note place="margin">Coll. on S. Andr. day.</note> that we being called by thy holy word, may forthwith give over our ſelves obedient<g ref="char:EOLhyphen"/>ly to fulfill thy holy commandements.</p>
+            <p>Grant that we may follow thy holy doctrin that Saint <hi>Paul</hi> taught. <note place="margin">Coll. on Converſ. of S. Paul. Coll. on S. Barn.</note>
+            </p>
+            <p>Let us not be deſtitute of thy manifold gifts, nor yet of grace to uſe them alway to thy honour and glory.</p>
+            <p>Make us ſo follow the doctrine, <note place="margin">Coll. on S. Iohn Bapt.</note> and holy life of Saint <hi>Iohn Baptiſt,</hi> that we may truly repent, and con<g ref="char:EOLhyphen"/>ſtantly ſpeak the truth, boldly rebuke vice and pati<g ref="char:EOLhyphen"/>ently ſuffer for the truths ſake.</p>
+            <p>Make we beſeech thee all Biſhops and Paſtours di<g ref="char:EOLhyphen"/>ligently to preach thy holy word,
+<note place="margin">Coll. on S. Peter.</note> and the people o<g ref="char:EOLhyphen"/>bediently to follow the ſame.</p>
+            <p>Grant that we forſaking all worldly and carnall af<g ref="char:EOLhyphen"/>fections, <note place="margin">Coll. on S. Iames.</note> may be evermore ready to follow thy com<g ref="char:EOLhyphen"/>mandements.</p>
+            <p>Grant us grace to follow thy holy Saints in all ver<g ref="char:EOLhyphen"/>tuous and godly living. <note place="margin">
+                  <hi>Collect. on All Saints. Prayer af<g ref="char:EOLhyphen"/>ter every command. Ser. againſt perill of idol.</hi> 2. <hi>Part. Serm con<g ref="char:EOLhyphen"/>cerning Pr.</hi> 1. <hi>Part.</hi> 1. <hi>Part. of Serm. for Rog. week. In the ſame place.</hi>
+               </note>
+            </p>
+            <p>Lord have mercy upon us and incline our hearts to keep this law.</p>
+            <p>Let us beſeech God that we may flee from all ido<g ref="char:EOLhyphen"/>latry.</p>
+            <p>God for his great mercy ſake ſo work in our hearts by his holy Spirit, that we may alwayes make our humble prayers unto him as we ought to do.</p>
+            <p>Let us call upon the father of mercy, that we may be aſſiſted with the preſence of his holy Spirit, and demeane our ſelves in ſpeaking and hearing to the ſalvation of our ſouls.</p>
+            <p>If we ſhould aske the Saints in heaven, whence
+<pb n="34" facs="tcp:63916:24"/>came their glorious works which they wrought in their lives, <hi>Eſay</hi> ſaith, O Lord it is thou of thy good<g ref="char:EOLhyphen"/>neſſe, that haſt wrought all works in us.</p>
+            <p>Grant that this thy rod, <note place="margin">
+                  <hi>Prayers for the Faſt.</hi> 1625. 2. <hi>Prayer added in the Letany. Thanksgi<g ref="char:EOLhyphen"/>ving.</hi> 1625. <hi>Collect.</hi> 1. <hi>In the ſame book.</hi> 3. <hi>Prayer after the Goſpel.</hi>
+               </note> may by thy heavenly grace ſpeedily work in us the fruit and effect of true repen<g ref="char:EOLhyphen"/>tance, unfainedly turning and converting unto thee, and perfect amendment of our whole lives.</p>
+            <p>Give us ſuch effectuall grace, that we looking eve<g ref="char:EOLhyphen"/>ry one of us into the plague of his own heart, may abhorre our own corruptions, and turn from our evill wayes.</p>
+            <p>We moſt humbly beſeech thee to poure thy heavenly grace into our hearts, that we may learn to turn unto thee from our wicked wayes.</p>
+         </div>
+         <div n="10" type="chapter">
+            <head>CHAP. X. <hi>Of Gods governing us.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>Eeing after we are regenerated and have ſpi<g ref="char:EOLhyphen"/>rituall life wrought in us, we ſtill need Gods help to govern us, it muſt needs follow that being ſpiritually dead by nature, we could not be made alive by a morall ſwaſion, but by a powerfull work of God. That we ſtill need Gods governing grace, appeares by authoriſed books.</hi>
+            </p>
+            <p>GRant that our doings may be ordered by thy go<g ref="char:EOLhyphen"/>vernance, <note place="margin">
+                  <hi>Morning Prayer. Coll.</hi> 3.</note> to do alwayes that is righteous in thy ſight.</p>
+            <p>We beſeech thee, <note place="margin">
+                  <hi>Coll. on</hi> 5. <hi>Sunday in Lent.</hi>
+               </note> that by thy great goodneſſe thy people may be governed and preſerved ever<g ref="char:EOLhyphen"/>more both in body and ſoul.</p>
+            <pb n="35" facs="tcp:63916:24"/>
+            <p>Lord from whom all good things do come, <note place="margin">
+                  <hi>Coll. on</hi> 5. <hi>Sund. after Eaſter.</hi>
+               </note> grant us thy humble ſervants, that by thy holy inſpiration we may think thoſe things that be good, and by thy mercifull guiding may performe the ſame.</p>
+            <p>Lord make us to have a perpetuall feare and love of thy holy name, <note place="margin">
+                  <hi>Coll. on</hi> 2. <hi>Sund. after Trinity.</hi>
+               </note> for thou never faileſt to help and govern them, whom thou doſt bring up in thy ſted<g ref="char:EOLhyphen"/>faſt love.</p>
+            <p>Grant that the courſe of this world may be ſo or<g ref="char:EOLhyphen"/>dered by thy governance, <note place="margin">
+                  <hi>Coll. on</hi> 5. <hi>Sund. after Trinity.</hi>
+               </note> that thy congregation may joyfully ſerve thee in all godly quietneſſe.</p>
+            <p>O Almightie Lord everliving God vouchſafe, <note place="margin">
+                  <hi>Short Pray. after Com. Prayer</hi> 2.</note> we beſeech thee to direct, ſanctifie and govern both our hearts and bodies in the wayes of thy laws, and in the works of thy commandements.</p>
+            <p>Defend, O Lord, <note place="margin">Prayer in Confirm. Hom. of Matrim.</note> this child with thy heavenly grace, that he may continue thine for ever</p>
+            <p>Married perſons muſt crave the help of Gods Spi<g ref="char:EOLhyphen"/>rit ſo to rule their hearts, that their minds be not de<g ref="char:EOLhyphen"/>ſevered.</p>
+            <p>Uſe oft prayer to God, <note place="margin">In the ſame Hom.</note> that he would be preſent by you, that he would continue concord and chari<g ref="char:EOLhyphen"/>tie betwixt you.</p>
+            <p>We pray that God by his holy Spirit would illumi<g ref="char:EOLhyphen"/>nate and govern the hearts of all ſuch,
+<note place="margin">
+                  <hi>Now. Cat. queſt.</hi> 206.</note> as be of his Cuurch, wherein he reigneth ſpecially, as in his king<g ref="char:EOLhyphen"/>dome.</p>
+            <p>As thou haſt by Gods guiding, <note place="margin">
+                  <hi>queſt.</hi> 251.</note> firſt conceived this minde and will, ſo ſhalt thou by his grace attain to a happy end of this thy godly ſtudy and indeavour.</p>
+         </div>
+         <div n="11" type="chapter">
+            <pb n="36" facs="tcp:63916:25"/>
+            <head>CHAP. XI. <hi>Of Gods preſerving us in godlineſſe, and from ſinne.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>S the power of God manifeſts it ſelfe at firſt in regenerating us, ſo may it evidently be diſ<g ref="char:EOLhyphen"/>cerned afterwards in reſiſting Satans temp<g ref="char:EOLhyphen"/>tations and keeping us in the wayes of piety. If an effectuall worke of God be ſometimes needfull to keepe us from groſſe idolatry in heavy tempta<g ref="char:EOLhyphen"/>tions, then is it much more needfull to keepe us from evill thoughts, and in pious meditations with delight. Our fleſh is quickly weary of good wayes and eaſily inclining to evill after we are regenerate. If now beſides the ſtrength of that working grace, which God put into us at firſt there be need of an effectuall helpe of grace ſtill: then was there at firſt, when we were able to doe nothing, need not of a ſtocke, that we might uſe well or ill, but of an effectuall work of grace, to worke faith and repentance in us. Now what need we have of Gods preſerving helpe let the bookes ſpeake.</hi>
+            </p>
+            <p>VOuchſafe, <note place="margin">Te Deum.</note> O Lord, to keepe us this day without ſinne.</p>
+            <p>From all evill and miſchiefe, <note place="margin">Letany.</note> from ſinne, from the crafts and aſſaults of the devill, from thy wrath and from everlaſting damnation.</p>
+            <p>Good Lord deliver us.</p>
+            <p>From all blindneſſe of heart, from pride, vaine<g ref="char:EOLhyphen"/>glory, and hypocriſie, from envy, hatred, and malice, and all uncharitableneſſe.</p>
+            <pb n="37" facs="tcp:63916:25"/>
+            <p>Good Lord deliver us.</p>
+            <p>From fornication, and all other deadly ſinne, and from all the deceits of the world, the fleſh, and the devill.</p>
+            <p>Good Lord deliver us.</p>
+            <p>That it may pleaſe thee to keepe and ſtrengthen in the true worſhipping of thee in righteouſneſſe and holineſſe of life thy ſervant, <note place="margin">Letany.</note> 
+               <hi>Charles</hi> our moſt gracious King and Governour.</p>
+            <p>Lord make us to have a perpetuall feare and love of thy holy name. <note place="margin">
+                  <hi>Coll. Sund.</hi> 2. <hi>after Trin. Sund.</hi> 7.</note>
+            </p>
+            <p>Nouriſh us with all goodneſſe, and of thy great mercy keepe us in the ſame.</p>
+            <p>Lord we beſeech thee grant thy people grace to avoid the infections of the devill.
+<note place="margin">
+                  <hi>Sund.</hi> 18.</note>
+            </p>
+            <p>Lord we beſeech thee to keepe thy houſhold the Church in continuall godlineſſe.
+<note place="margin">
+                  <hi>Sund.</hi> 22.</note>
+            </p>
+            <p>Almighty God confirme and ſtrengthen you in all goodneſſe. <note place="margin">
+                  <hi>Abſolv. at the Com<g ref="char:EOLhyphen"/>munion. Cat in book of Com. Pr. queſt.</hi> 13. <hi>Pr.</hi> 3. <hi>in viſ. of the ſicke. Veni Crea<g ref="char:EOLhyphen"/>tor.</hi>
+               </note>
+            </p>
+            <p>I pray unto God, that it will pleaſe him to ſave and defend us in all dangers ghoſtly and bodily, and that he will keepe us from all ſinne and wickedneſſe.</p>
+            <p>Preſerve and continue this ſicke member in the unity of thy Church.</p>
+            <q>
+               <l>Strength and ſtabliſh all our weakneſſe</l>
+               <l>ſo feeble and ſo fraile,</l>
+               <l>That neither fleſh the world nor devill</l>
+               <l>againſt us doe prevaile. <note place="margin">In the ſame hymne.</note>
+               </l>
+               <l>And grant, O Lord, that thou being</l>
+               <l>our leader and our guide:</l>
+               <l>We may eſchew the ſnares of ſinne,</l>
+               <l>and from thee never ſlide.</l>
+               <pb n="38" facs="tcp:63916:26"/>
+               <l>Onely thy grace muſt be my ſtay <note place="margin">Humble ſuit of ſin.</note>
+               </l>
+               <l>leaſt that I fall downe flat,</l>
+               <l>And being downe, then of my ſelfe</l>
+               <l>cannot recover that.</l>
+               <l>Lord keepe our King and his councell, <note place="margin">
+                     <hi>Prayer to the Holy Ghoſt before Serm. Hom. of faith. Part.</hi> 3. <hi>Hom. of In<g ref="char:EOLhyphen"/>form. of them which take offence &amp;c. Part.</hi> 1. <hi>In the ſame place.</hi>
+                  </note>
+               </l>
+               <l>and give them will and might</l>
+               <l>To perſevere in thy Goſpel,</l>
+               <l>which can put ſinne to flight.</l>
+            </q>
+            <p>It is God that muſt be our defence and protection againſt all temptation of wickedneſſe and ſinne.</p>
+            <p>
+               <hi>Noah</hi> and <hi>Lot</hi> godly men, which otherwiſe felt in<g ref="char:EOLhyphen"/>wardly Gods holy Spirit inflaming them in their hearts with the feare and love of God, could not by their owne ſtrength keepe themſelves from com<g ref="char:EOLhyphen"/>mitting horrible ſinnes.</p>
+            <p>We muſt therefore acknowledge our owne infir<g ref="char:EOLhyphen"/>mity and weakneſſe, and pray more earneſtly to God inceſſantly for his grace to ſtrengthen us and to de<g ref="char:EOLhyphen"/>fend us from all evill.</p>
+            <p>It is of the goodneſſe of God, <note place="margin">
+                  <hi>Serm. for Rogat. week Part.</hi> 3.</note> that we faint not in our hope unto him. It is verily Gods worke in us, the charity wherewith we love our brethren. If after our fall we repent, it is by him that we repent, which reacheth forth his mercifull hand to raiſe us up. If a<g ref="char:EOLhyphen"/>ny will we have to riſe, it is he that preventeth our will, and diſpoſeth us thereto.</p>
+            <p>Pray God to defend and maintaine you in marri<g ref="char:EOLhyphen"/>age, <note place="margin">
+                  <hi>Hom. of Matrim. Now. Cat. queſt.</hi> 206.</note> that ye be not overcome with any temptations.</p>
+            <p>We pray that God would ſtrengthen the members of his Church with his aide and power, as his ſouldi<g ref="char:EOLhyphen"/>ers, that they may earneſtly fight againſt and ſubdue the devill, the world, and the luſts of the fleſh.</p>
+            <pb n="39" facs="tcp:63916:26"/>
+            <p>We pray God not to ſuffer us to be overcome with any wicked temptation, but that he will deliver us, <note place="margin">
+                  <hi>queſt.</hi> 224.</note> and ſave us from all evill.</p>
+            <p>Direct our ſteps in thy word, <note place="margin">Pſal. for Even.</note> and ſo ſhall our feet be kept from falling, and no wickedneſſe ſhall have dominion over us.</p>
+            <p>Deliver us from the power of wicked ſpirits, <note place="margin">Even. pray<g ref="char:EOLhyphen"/>er there.</note> and from all ſinne, the workes of darkneſſe, and from all other perils bodily and ghoſtly.</p>
+         </div>
+         <div n="12" type="chapter">
+            <head>CHAP. XII. <hi>Of the progreſſe of the Regenerate.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He ſervants of God that are regenerate though they be able to doe ſpirtuall actions by vertue of that grace they have received, yet ſo unperfectly, that they cannot make a<g ref="char:EOLhyphen"/>ny great progreſſe in godlineſſe without fur<g ref="char:EOLhyphen"/>ther helpe of Gods grace, they acknowledge that they have of Gods aſsiſtance to bring into action their good cogitati<g ref="char:EOLhyphen"/>ons, ſo violently are they oppoſed by the remainders of fleſhly corruption. Now if the regenerate have need of Gods grace to make a progreſſe, how much more have they need of his effectuall grace, that have no power to regenerate themſelves, as we ſay, or at leaſt not ſo much as the re<g ref="char:EOLhyphen"/>generate have to proceed, as our adverſaries muſt ſay, un<g ref="char:EOLhyphen"/>leſſe they will put no difference betwixt ſpirituall death and ſpirituall life. Let us now heare the teſtimony of the bookes in this particular.</hi>
+            </p>
+            <pb n="40" facs="tcp:63916:27"/>
+            <p>Grant that we being regenerate, <note place="margin">Collect. on Chriſtmas day.</note> and made thy children by adoption and grace, may daily be renued by thy holy Spirit.</p>
+            <p>Nouriſh us with all goodneſſe. <note place="margin">
+                  <hi>Sund.</hi> 7. <hi>af<g ref="char:EOLhyphen"/>ter Trinity. Sunday</hi> 14. <hi>after Trin. Prayer</hi> 3. <hi>in Baptiſme. Prayer in priv. Bapt.</hi>
+               </note>
+            </p>
+            <p>Almightie and everlaſting God, give unto us the encreaſe of faith, hope, and charitie.</p>
+            <p>Encreaſe this knowledge, and confirme this faith in us evermore.</p>
+            <p>Give thy holy Spirit to this infant, that he being born again, and being made heire of everlaſting ſal<g ref="char:EOLhyphen"/>vation through our Lord Jeſus Chriſt, may continue thy ſervant, and attain thy promiſe.</p>
+            <p>Daily increaſe in theſe thy ſervants, <note place="margin">
+                  <hi>Prayer</hi> 1. <hi>in Confirm.</hi>
+               </note> thy manifold gifts of grace, the ſpirit of ghoſtly ſtrength, and true godlineſſe, and fulfill them, O Lord, with the ſpirit of thy holy feare.</p>
+            <p>Defend O Lord, <note place="margin">
+                  <hi>Prayer</hi> 2. <hi>there.</hi>
+               </note> this childe with thy heavenly grace, that he may continue thine for ever, and daily increaſe in thy holy Spirit more and more, untill he come unto thy everlaſting kingdome.</p>
+            <q>
+               <l>O Lord increaſe our faith in us, <note place="margin">
+                     <hi>Prayer to holy Ghoſt before Ser. Prayer</hi> 3. <hi>in order of Prieſts,</hi>
+                  </note>
+               </l>
+               <l>and love ſo to abound, &amp;c.</l>
+            </q>
+            <p>We humbly beſeech thee, by the ſame thy Sonne to grant unto all us which either here, or elſe where call upon thy name, that we may ſhew our ſelves thankfull to thee for theſe and all other thy benefits, and that we may daily encreaſe and go forwards in the knowledge and faith of thee and thy Sonne by thy holy Spirit.</p>
+            <p>Almightie God accompliſh in you the good work, <note place="margin">
+                  <hi>Prayer.</hi> 2. <hi>in Conſecr. of Biſhops.</hi>
+               </note> which he hath begun, that ye may be found perfect, and irreprehenſible at the latter day.</p>
+            <pb n="41" facs="tcp:63916:27"/>
+            <p>Regard not the horrour of our ſinnes, <note place="margin">
+                  <hi>Prayer in faſt.</hi> 1625. <hi>Coll.</hi> 1.</note> but our un<g ref="char:EOLhyphen"/>fained repentance. Perfect that worke which thou haſt begun in us.</p>
+            <p>Give unto us every day more earneſt and unfeign<g ref="char:EOLhyphen"/>ned repentance: <note place="margin">
+                  <hi>Prayer</hi> 6. <hi>added to Letany there.</hi>
+               </note> plant in our hearts by the grace of thy holy Spirit a ſetled feare of thy name, and full re<g ref="char:EOLhyphen"/>ſolution to lead the reſt of our life in the carefull o<g ref="char:EOLhyphen"/>bedience of thy holy will in our callings, and faithfull hope of a better life to come.</p>
+            <p>Lord we beleeve, but do thou encreaſe our faith, <note place="margin">Prayer for ſeaſon. wea<g ref="char:EOLhyphen"/>ther there.</note> our devotion, our repentance, and all Chriſtian ver<g ref="char:EOLhyphen"/>tues.</p>
+            <p>Thou didſt moſt graciouſly accept our undeſerved repentance before thee:
+<note place="margin">
+                  <hi>Prayer a<g ref="char:EOLhyphen"/>gainſt peſtil. in the faſt.</hi> 1626.</note> we beſeech thee to give us the grace of greater humiliation, and to ſhew as yet further mercy.</p>
+            <p>Neither doth the holy Ghoſt think it ſufficient, <note place="margin">
+                  <hi>Hom. for Whitſunday Part.</hi> 1.</note> inwardly to work the ſpirituall and new birth of man, unleſſe he do alſo dwell, and abide in him.</p>
+            <p>Whether the Prince be good or evill, <note place="margin">
+                  <hi>Hom. a<g ref="char:EOLhyphen"/>gainſt wil<g ref="char:EOLhyphen"/>full rebel. Part.</hi> 1. <hi>Thanksgiv. Nov.</hi> 5. <hi>Pr. after</hi> 1. <hi>Coll.</hi>
+               </note> let us pray for him, for his continuance and increaſe in good<g ref="char:EOLhyphen"/>neſſe, if he be good; and for his amendment, if he be evill.</p>
+            <p>Increaſe in us more and more a lively faith, and fruitfull love in all obedience.</p>
+         </div>
+         <div n="13" type="chapter">
+            <pb n="42" facs="tcp:63916:28"/>
+            <head>CHAP. XIII. <hi>Of the prayers of holy men.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>Vch as are indued with true grace already, yet pray to God ſtill for grace. By which grace they do not entend a power to do well if they pleaſe, for this they have already, yea, they had it before they did actually beleeve, and by vertue of this power did beleeve as our adverſaries ſay. The grace then that Gods ſervants pray for, that they may obey God, is an actuall inclination of their will already regenerate, to the effecting of thoſe good deſires, that are in their ſouls. Neither muſt we ſuppoſe that their prayers aime only at an indefinit power of doing well, but at a cer<g ref="char:EOLhyphen"/>taine event of ſpirituall power given them by God, as ap<g ref="char:EOLhyphen"/>peares by thoſe frequent expreſsions of the end of their de<g ref="char:EOLhyphen"/>ſires in ſuch phraſes, as theſe,</hi> That we loving that thou requireſt may obtain that thou promiſeſt. That we may continue thy ſervants, and attain thy promiſes. That they may ſo pleaſe thee in this world, that in the world to come they may have life everlaſting. <hi>And many ſuch like. Their prayers do ſeek more for the further<g ref="char:EOLhyphen"/>ance of the will, then for the illumination of the under<g ref="char:EOLhyphen"/>ſtanding. And of ſuch a will, as is made good already. They muſt needs then aime at a greater power of the will to good, and a more effectuall direction of good thoughts to good actions, becauſe they ſeek for a certain effect, which they aske in faith, and God gives in mercy. If they then yet pray for effectual grace, then could they not be converted at the firſt without it. What they pray for, let us now obſerve.</hi>
+            </p>
+            <pb n="43" facs="tcp:63916:28"/>
+            <p>HOwbeit ye cannot have a minde and a will there<g ref="char:EOLhyphen"/>to of your ſelves, <note place="margin">Order of Prieſts Ex<g ref="char:EOLhyphen"/>hort.</note> for that power and ability is gi<g ref="char:EOLhyphen"/>ven of God alone. Therfore ye ſee, how ye ought and have need earneſtly to pray for his holy Spirit.</p>
+            <p>Let us earneſtly call for grace, <note place="margin">
+                  <hi>Hom. of Swearing. Part.</hi> 2.</note> that all vaine ſwear<g ref="char:EOLhyphen"/>ing and perjury ſet apart, we may onely uſe ſuch oathes as be lawfull and godly, and that we may true<g ref="char:EOLhyphen"/>ly without all fraud keepe the ſame according to Gods will and pleaſure.</p>
+            <p>Let us pray that Kings may ever in all things have God before their eyes, <note place="margin">Serm. of obedience.</note> that they may have zeale to Gods glory, that they may rightly uſe their ſword and authority, that they may moſt faithfully follow the Kings in the Bible.</p>
+            <p>Let us pray for ourſelves that we may live godly in holy and Chriſtian converſation.
+<note place="margin">In the ſame Hom.</note>
+            </p>
+            <p>Let us beſeech God that we being warned by his holy word, <note place="margin">
+                  <hi>Hom. a<g ref="char:EOLhyphen"/>gainſt perill of idolatry. Part.</hi> 2. <hi>Hom. of Prayer. Part.</hi> 3.</note> forbiding all idolatry may flee from all idolatry.</p>
+            <p>It is needfull daily to pray for the miniſters, that they may effectually preach the Goſpell to the peo<g ref="char:EOLhyphen"/>ple, and bring forth the true fruits thereof to the example of all other.</p>
+            <p>The confeſſing that all grace of the ſoule is Gods gift onely, <note place="margin">
+                  <hi>Hom. for Rogat. week Part.</hi> 2.</note> will make us to have recourſe to God for all grace, as the wiſeman did for chaſtity, <hi>Wiſd.</hi> 10. ſaying, After I knew that otherwiſe I could not be chaſt, except God granted it, I made haſt to the Lord, and earneſtly beſought him from the bottome of my heart to have it.</p>
+            <p>Now if the aide of prayer be taken away, <note place="margin">Hom. of Matrim.</note> by what meanes can marryed perſons ſuſtaine themſelves in
+<pb n="44" facs="tcp:63916:29"/>any comfort? For they cannot otherwiſe either reſiſt the devill, or yet have their hearts ſtaid in ſtable comfort in all perils and neceſſities, but by prayer.</p>
+            <p>If thy wife be wicked, <note place="margin">In the ſame Hom.</note> chafe not in anger, but pray unto Almighty God for her.</p>
+            <p>By prayer we may obtaine Gods helpe, <note place="margin">In the ſame Hom.</note> his grace, and defence, and protection to continue without diſ<g ref="char:EOLhyphen"/>cord in marriage to a better life to come. Which grant us he that dyed for us all.</p>
+            <p>Theſe things being conſidered let us earneſtly pray unto the living God our heavenly Father, <note place="margin">
+                  <hi>Serm. of Repent. Part.</hi> 1.</note> that he will vouchſafe by his holy Spirit to worke a true and unfained repentance in us.</p>
+            <p>We pray that Gods name may be called upon with pure mind by men of all ages, <note place="margin">
+                  <hi>Now. Cat. queſt.</hi> 203. <hi>queſt.</hi> 209.</note> &amp;c.</p>
+            <p>We pray that whatſoever betides us, we may re<g ref="char:EOLhyphen"/>ceive it with contented and gladſome hearts, and that we may in all things be ſerviceable and obedient to God, and that we rebell not, nor repine not againſt Gods will.</p>
+            <p>I being of my ſelfe moſt weake and unable there<g ref="char:EOLhyphen"/>unto, <note place="margin">
+                  <hi>queſt.</hi> 249.</note> muſt continually and earneſtly ſue by hearty prayer to God the giver of all good things for increaſe of faith, and grace to pleaſe God.</p>
+         </div>
+         <div n="14" type="chapter">
+            <head>CHAP. XIIII. <hi>Of Gods grants.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hat God grants unto his people, that he doth not permit them to doe, or give leave that they doe it themſelves by ſtrength of nature, or ſome former grace received without any further help of God, for God
+<pb n="45" facs="tcp:63916:29"/>not hinder us from doing any good, but give us free leave in his word: So that there needs no new grant of leave to do well, or to uſe well the ſtrength we have received. But Gods granting is giving ſome new ſpirituall ſtrength or grace to uſe well the grace we have received. If ſuch grace be yet effectually granted to good men, then could they not at firſt be made good without Gods effectuall operation. We ſhall be briefe in this laſt point, becauſe all the prayers we have ci<g ref="char:EOLhyphen"/>ted before are but expreſsions of Gods peoples deſires, and of Gods ſatisfaction, which he gives unto the ſame.</hi>
+            </p>
+            <p>GRant O moſt mercifull Father, <note place="margin">Confeſsion.</note> that we may hereafter live a godly righteous and ſober life, to the glory of thy holy name. Amen.</p>
+            <p>Grant this day that we fall into no ſin, <note place="margin">
+                  <hi>Coll.</hi> 3. <hi>Morning Pray. Coll. Sund. in Advent.</hi>
+               </note> neither run into any kinde of danger.</p>
+            <p>Bleſſed Lord God which haſt cauſed all holy Scriptures to be written for our learning. Grant us that we may in ſuch wiſe heare them, read, marke, learne, and inwardly digeſt them, that by patience and comfort of thy holy word we may imbrace and ever hold faſt the bleſſed hope of everlaſting life, which thou haſt given us in our Saviour Jeſus Chriſt.</p>
+            <p>Lord we beſeech thee mercifully to receive the prayers of thy people which call upon thee,
+<note place="margin">Coll. Sund. after Epiph</note> and grant that they may both perceive and know what things they ought to doe, and alſo have grace and power faithfully to fulfill the ſame through Jeſus Chriſt our Lord.</p>
+            <p>Receive our ſupplications and prayers, <note place="margin">Coll. on good Frid.</note> which we offer before thee, for all eſtates of men in thy holy congregation, that every member of the ſame in his
+<pb n="46" facs="tcp:63916:30"/>vocation and miniſtery may truely and godly ſerve thee through our Lord Jeſus Chriſt.</p>
+            <p>Grant unto all them that be admitted into the fellowſhip of Chriſts religion,
+<note place="margin">
+                  <hi>Sund.</hi> 3. <hi>af<g ref="char:EOLhyphen"/>ter Eaſter</hi>
+               </note> that they may eſchew thoſe things that be contrary to their profeſſion, and follow all ſuch things as be agreable to the ſame.</p>
+            <p>Grant we beſeech thee Almighty God, <note place="margin">Coll. on Aſcenſ. day.</note> that like as we doe beleeve thy onely begotten Sonne our Lord to have aſcended into the heavens: ſo we may alſo in heart and mind thither aſcend and with him continually dwell.</p>
+            <p>Grant us by thy Spirit to have a right judgement in all things, <note place="margin">Coll. on Whitſun<g ref="char:EOLhyphen"/>day.</note> and evermore to rejoyce in his holy Comfort.</p>
+            <p>Grant we beſeech thee that we which have S. <note place="margin">Coll. on con<g ref="char:EOLhyphen"/>verſ. of S. Paul.</note> 
+               <hi>Pauls</hi> wonderfull converſion in remembrance, may follow and fulfill thy holy doctrine that he taught, through Jeſus Chriſt our Lord.</p>
+            <p>Grant that we may with pure and cleane minds be preſented unto thee by Jeſus Chriſt our Lord. <note place="margin">Coll. on Pu<g ref="char:EOLhyphen"/>rif. of virg. Mary. Gen. confeſſ. before re<g ref="char:EOLhyphen"/>ceiving the Commu.</note>
+            </p>
+            <p>Grant that we may ever hereafter ſerve and pleaſe thee in newneſſe of life, to the honour and glory of thy name through Jeſus Chriſt our Lord. Amen.</p>
+         </div>
+         <div type="conclusion">
+            <head>The Concluſion.</head>
+            <p>THus have I ſhewed out of the authentick records of our Church, what is the judgement thereof about the power of mans will, and Gods effectuall work upon the ſame in mans regeneration. True it is, many of theſe places ſpeak of men already regenerate. Which is ſo farre from weakning the argument, that it makes it the ſtronger. For if that man
+<pb n="47" facs="tcp:63916:30"/>that in the judgement of the Church is alive in grace be ſo imperfect, that he have often need of new and effectuall grace, and help of God to go forward, how much need had he then of an effectuall work of Gods grace in regenerating him, who by the judgement of the ſame Church was dead in ſinnes and treſpaſſes before, yea as dead to grace (for ſo are the words of the Homilies) as they are to the world, that want ſouls. It may be thought ſuperfluous to collect ſo ma<g ref="char:EOLhyphen"/>ny teſtimonies, divers whereof differ but in words and agree in ſence. This have I done becauſe of the weight of the cauſe, and the rather becauſe the publique doctrin of the Church is by ſome ſaid to be on the other ſide. It may be ſome few teſtimonies might have been ſlighted, but ſuch varietie, out of ſo many ſeverall records, muſt needs ſhew to every indifferent perſon the conſtant doctrin of the Church which way it runs. It may alſo ſtop the mouthes of ſuch as pretend a few ſeeming and miſconceived places to the con<g ref="char:EOLhyphen"/>trary. I might have made a world of Syllogiſmes, if I would have proceeded ſcholaſtically. But I had rather lay down the naked doctrin of the Church for learned and un<g ref="char:EOLhyphen"/>learned to peruſe, reduced to divers heads all tending to one end, and that for the eaſe and better underſtanding of the reader. If it be ſaid, that I have ſometimes ſet down the ſame words in ſeverall places, the anſwer is at hand. I did it for ſundry reaſons. One while the place was fruit<g ref="char:EOLhyphen"/>full, and out of divers words did afford divers reaſons be<g ref="char:EOLhyphen"/>longing to ſeverall heads. Another while the place could not well be understood without coherence, ſo that I was compelled to ſet down the words precedent, though I had made uſe of them elſewhere. Laſtly, ſometimes the words were doubtfull to which head they did belong, or rather ſee<g ref="char:EOLhyphen"/>med to me to belong to both, and ſo have I placed them ac<g ref="char:EOLhyphen"/>cordingly.
+<pb n="48" facs="tcp:63916:31"/>If any yet object further, that the places may ad<g ref="char:EOLhyphen"/>mit of another interpretation, and may at leaſt ſome of them ſo be underſtood, as they may make for the adverſe part. I anſwere there are many of them plaine enough, that cannot eaſily be miſconſtrued. Other places muſt be interpreted by them that are plaine. The Scripture it ſelfe the voyce of our Father is wreſted daily to a contrary ſence, and no mar<g ref="char:EOLhyphen"/>vaile if the voyce of our Mother the Church may be ſo a<g ref="char:EOLhyphen"/>buſed alſo. Let the Reader by that reaſon and grace, that God hath given him, endeavour to underſtand which is the right ſenſe of the words. I have added nothing of mine owne, ſave the ſtate of the queſtion at firſt, and the relation that every argument or head hath to the queſtion in the be<g ref="char:EOLhyphen"/>ginning of every Chapter. Leſſe I could not adde without injury to the cauſe. More I would not, leaſt I ſhould be tedi<g ref="char:EOLhyphen"/>ous to the Reader, or lie more open to the exceptions of ſuch as are otherwiſe minded, who cannot now except againſt my words without wounding the Church, whoſe words I have faithfully reported.</p>
+            <p>Thus I commend the cauſe to God whoſe it is, and to the Church of God whom it concernes, beſeeching God ſo to worke in every member of it by his effectuall grace, that we may conſent in judgement, and agree in affection on earth, till we come to perfection in heaven.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:63916:31"/>
+         </div>
+      </body>
+   </text>
+</TEI>
